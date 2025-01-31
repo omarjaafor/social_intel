@@ -104,7 +104,7 @@ def merge_topics(all_topics):
     Return a JSON with this structure:
     {{
         "merged_topics": [
-            {{"topic": "topic in french", "count": total_count}}
+            {{"topic": "topic in french", "count": total_count, "description": "short description in french"}}
         ]
     }}
     
@@ -118,6 +118,18 @@ def merge_topics(all_topics):
         result = extract_json(response)
         merged = result.get('merged_topics', [])
         logger.info(f"Successfully merged topics into {len(merged)} topics")
+        
+        # Save topics with descriptions to a file
+        output_file = "topic_descriptions.txt"
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write("Topics et Descriptions:\n\n")
+            for topic in merged:
+                f.write(f"Topic: {topic['topic']}\n")
+                f.write(f"Description: {topic.get('description', 'No description available')}\n")
+                f.write(f"Count: {topic['count']}\n")
+                f.write("-" * 50 + "\n")
+        logger.info(f"Saved topic descriptions to {output_file}")
+        
         return merged
     except Exception as e:
         logger.error(f"Error in topic merging: {e}")
@@ -180,6 +192,15 @@ def assign_topics_to_comments(comments, merged_topics, source_file, batch_size=5
     
     all_comments = comments.copy()  # Make a copy to preserve original order
     
+    # Create a list of topics with their descriptions
+    topics_with_descriptions = [
+        {
+            "topic": topic["topic"],
+            "description": topic.get("description", "No description available")
+        }
+        for topic in merged_topics
+    ]
+    
     # Process comments in batches
     for i in range(0, len(comments), batch_size):
         batch = comments[i:i + batch_size]
@@ -188,6 +209,7 @@ def assign_topics_to_comments(comments, merged_topics, source_file, batch_size=5
         prompt = f"""
         For each comment, assign relevant topics from the list of merged topics.
         A comment can have multiple topics or no topics if none match.
+        Use the topic descriptions to better understand the context and meaning of each topic.
         Return a JSON with this structure:
         {{
             "comments": [
@@ -202,8 +224,8 @@ def assign_topics_to_comments(comments, merged_topics, source_file, batch_size=5
         Comments:
         {batch}
         
-        Merged Topics:
-        {merged_topics}
+        Available Topics (with descriptions):
+        {topics_with_descriptions}
         """
         
         try:
@@ -237,11 +259,12 @@ def assign_topics_to_comments(comments, merged_topics, source_file, batch_size=5
                 if idx < len(all_comments):
                     all_comments[idx]['topics'] = []
                     all_comments[idx]['source_file'] = source_file
-        
-        # Add a small delay between batches
+            continue
+            
+        # Add a small delay between batches to avoid rate limiting
         time.sleep(0.5)
     
-    logger.success(f"Completed topic assignment for {len(all_comments)} comments from {source_file}")
+    logger.success(f"Completed topic assignment: {len(all_comments)} total results")
     return all_comments
 
 def create_visualizations(all_results):
