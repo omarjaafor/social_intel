@@ -1,0 +1,8 @@
+Comments for Topic-Polarity: Santé mentale_neutral
+==================================================
+
+Comment 1:
+Text: الإكتئاب و الضوء و الماء مع ساروت و البزبوز.
+Language: Arabic
+Source File: hespress.txt
+------------------------------

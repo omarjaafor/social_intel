@@ -1,0 +1,13 @@
+Comments for Topic-Polarity: Gestion des crises sanitaires_neutral
+==================================================
+
+Comment 1:
+Text: الحكومة اليوم أمام تحدي كبير عليها مضاعفة جهودها من اجل تجاوز كل المشاكل التي تلحق ببلادنا
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 2:
+Text: الحكومة اليوم أمام تحدي كبير عليها مضاعفة جهودها من اجل تجاوز كل المشاكل التي تلحق ببلادنا
+Language: Arabic
+Source File: hespress.txt
+------------------------------

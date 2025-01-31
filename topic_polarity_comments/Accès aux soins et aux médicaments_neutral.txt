@@ -1,0 +1,15 @@
+Comments for Topic-Polarity: Accès aux soins et aux médicaments_neutral
+==================================================
+
+Comment 1:
+Text: كم ثمن هاد اللقاح و اين ناخده عند طبيب او ممرض
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 2:
+Text: من فضلكم
+عنوان مركز التلقيح
+مدينة إبن اجرير
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

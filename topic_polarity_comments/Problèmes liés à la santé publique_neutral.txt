@@ -1,0 +1,13 @@
+Comments for Topic-Polarity: Problèmes liés à la santé publique_neutral
+==================================================
+
+Comment 1:
+Text: والاضراب
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 2:
+Text: لقاح الحصبة يعطى للأطفال في جرعتين: الجرعة الأولى في الشهر التاسع والجرعة الثانية في الشهر الثامن عشر.
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

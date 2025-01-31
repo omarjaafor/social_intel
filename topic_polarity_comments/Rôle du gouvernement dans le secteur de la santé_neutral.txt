@@ -1,0 +1,43 @@
+Comments for Topic-Polarity: Rôle du gouvernement dans le secteur de la santé_neutral
+==================================================
+
+Comment 1:
+Text: لا يمكننا أن ننكر بأن الحكومة الحالية منذ تنصيبها وهي تقوم بمجهودات جبارة من أجل الارتقئ بالمنظومة الصحية بصفة عامة إلى مستوى انتظارات المغاربة ولكن نتائج هذه المجهودات لا تزال ضعيفة على أرض الواقع.
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 2:
+Text: الحكومة اليوم أمام تحدي كبير عليها مضاعفة جهودها من اجل تجاوز كل المشاكل التي تلحق ببلادنا
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 3:
+Text: الحكومة اليوم أمام تحدي كبير عليها مضاعفة جهودها من اجل تجاوز كل المشاكل التي تلحق ببلادنا
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 4:
+Text: نسمع دائما عن إحتجاجات وإضرابات وفي غالب الأحيان نتهم طرف على الأخر أي الوزارة أو الطبيب . لذا لتوضيح الرؤيا يجب خلق حوار عبر شاشة التلفزة العمومية وليس المذياع . وفي أوقات الذروة لأنه موضوع حساس ومهم ونعرف أين الخلل ومذا يريد الطبيب العام .
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 5:
+Text: الاتفاق يجب ان يترجم الى مرسوم او قرار وزاري من أجل تنفيذه
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 6:
+Text: واااااا إتفاق ٢٣ يوليوز
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 7:
+Text: أين تنزيل اتفاق 23 يوليوز؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 8:
+Text: برنامج الوزارة
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

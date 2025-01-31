@@ -1,0 +1,2295 @@
+Analysis Results - Generated on 2025-01-30T20:46:12+01:00
+==================================================
+
+File: comments/hespress.txt
+---------------------------
+
+Topics:
+- Réforme du système de santé: 167
+- Accès aux soins et aux médicaments: 41
+- Conditions de travail des professionnels de santé: 30
+- Gestion des crises sanitaires: 26
+- Problèmes liés à la santé publique: 27
+- Manque de ressources dans le secteur de la santé: 31
+- Rôle du gouvernement dans le secteur de la santé: 25
+- Impact des politiques gouvernementales sur la santé: 10
+- Prix des médicaments et des soins: 16
+- Santé mentale: 12
+- Situation des hôpitaux publics: 10
+- Impact du prix de la viande sur la santé: 11
+- Couverture sociale et santé: 7
+- Projet royal de protection sociale: 5
+- Augmentation des salaires des fonctionnaires: 6
+
+Comments:
+Text: أصهار وأصدقاء أخنوش لهم يد طويلة في قطاع الأدوية، لذالك لا نترجى خيرا في المستقبل القريب..
+Language: Arabic
+Polarity: negative
+Topics: Prix des médicaments et des soins, Accès aux soins et aux médicaments, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: نحن نثق في قدرة الحكومة على إدارة الشؤون الحكومية بطريقة فعالة وشفافة، ونأمل أن يكون لديها القدرة على تحقيق التغيير الإيجابي الذي يطمح إليه الشعب
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Réforme du système de santé
+Source File: hespress.txt
+---
+Text: لا يمكننا أن ننكر بأن الحكومة الحالية منذ تنصيبها وهي تقوم بمجهودات جبارة من أجل الارتقئ بالمنظومة الصحية بصفة عامة إلى مستوى انتظارات المغاربة ولكن نتائج هذه المجهودات لا تزال ضعيفة على أرض الواقع.
+Language: Arabic
+Polarity: neutral
+Topics: Réforme du système de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Manque de ressources dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: من الجيد أن نرى تكامل بين أعضاء الحكومة في تنفيذ برنامجها الحكومي، ونأمل أن يستمر هذا التعاون لتحقيق أهداف مستقبلية أكثر تطلعاً
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Réforme du système de santé
+Source File: hespress.txt
+---
+Text: المشكل الحقيقي الذي كانت تعاني منه المنظومة الصحية هو غياب المواد و المستلزمات الطبية اللازمة لحفظ صحة الأشخاص و ضعف الجادبية للمستشفيات و جادبية القطاع العمومي للاطر و الاطباء لكن اليوم بفضل هذه الاتفاقية ستساهم في تحسين جودة الخدمات الصحية
+Language: Arabic
+Polarity: positive
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Situation des hôpitaux publics, Conditions de travail des professionnels de santé, Réforme du système de santé
+Source File: hespress.txt
+---
+Text: نتمنى للحكومة التوفيق والنجاح في مساعيها لتحقيق التغيير الإيجابي وتحسين حياة المواطنين
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحمد الله بفضل هذا الاتفاقيات سيتم ضمان تواجد الاطباء داخل المستشفيات
+Language: Arabic
+Polarity: positive
+Topics: Situation des hôpitaux publics, Conditions de travail des professionnels de santé
+Source File: hespress.txt
+---
+Text: إن الجهود المبذولة من قبل الحكومة تستحق الإشادة والتقدير، ونأمل أن تستمر في تحسين الأوضاع وتحقيق التقدم الذي تعده للشعب
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: من الجيد أن نرى الحكومة تعمل بتعاون وتناغم لتحقيق أهدافها، ونأمل أن يكون لهذا تأثير إيجابي على حياة المواطنين
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: المنظومة الصحية بالمغرب بصفة عامة تحتاج إلى اصلاح جذري لأن هذا القطاع الحيوي عان لسنوات من السياسات الترقيعية التي تسببت في المشاكل التي يواجهها القطاع اليوم.
+Language: Arabic
+Polarity: negative
+Topics: Réforme du système de santé, Problèmes liés à la santé publique, Manque de ressources dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: لا شك أن التحديات التي تواجهها الحكومة كبيرة، ولكننا نثق في قدرتها على التصدي لها وتحقيق التقدم المطلوب
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: من الرائع أن نرى الحكومة تعمل على تحسين القطاعات الاقتصادية والاجتماعية، ونتطلع إلى رؤية نتائج إيجابية في هذا الصدد
+Language: Arabic
+Polarity: positive
+Topics: Impact des politiques gouvernementales sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: مشروع ملكي ماض في الاتجاه الصحيح ، بحيث تضمن للمستفيدين فضلا عن التغطية الصحية والتعويضات العائلية والمعاش
+Language: Arabic
+Polarity: positive
+Topics: Projet royal de protection sociale, Couverture sociale et santé, Accès aux soins et aux médicaments
+Source File: hespress.txt
+---
+Text: مشروع هداف و مثمر بحيث سيتم الاستفادة منه أصحاب المحلات التجارية و جميع المهنين و الحرفيين ..
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: hespress.txt
+---
+Text: أصبحت لنا منظومة صحية متكاملة بفضل مشروع ملكنا سيتم الرفع من جودة التغطية الصحية
+Language: Arabic
+Polarity: positive
+Topics: Projet royal de protection sociale, Réforme du système de santé, Accès aux soins et aux médicaments, Couverture sociale et santé
+Source File: hespress.txt
+---
+Text: لا أحد يمكنه أن ينكر بأن الحكومة المغربية قامت بمجموعة من التدخلات من أجل النهوض بالقطاع الصحي ببلادنا ولكن تظل هذه المجهودات غير كافية بالمقارنة مع حجم الاشكاليات التي يعيشها القطاع ومعاناة المواطن معه.
+Language: Arabic
+Polarity: mixed
+Topics: Réforme du système de santé, Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: هذا البرنامج سيرفاع من عدد مهني الصحة و تيسير ولوج المواطنين الى الخدمات الصحية و تحسين جودتها
+Language: Arabic
+Polarity: positive
+Topics: Réforme du système de santé, Accès aux soins et aux médicaments, Conditions de travail des professionnels de santé
+Source File: hespress.txt
+---
+Text: الحكومة ماضية في الاتجاه الصحيح يسعى لخلق الحلول الناجعة و الهدف واحد
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Réforme du système de santé
+Source File: hespress.txt
+---
+Text: الحكومة الحالية إيجابية وواعدة بالتقدم في مسار خدمة المواطن وتعزيز مناخ الثقة
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة الحالية تبرز إرادة سياسية إصلاحية قوية تتمثل على الخصوص في مواصلة الإصلاحات ، والتفاعل مع عدد من التحديات المستجدة والمطالب الجديدة
+Language: Arabic
+Polarity: positive
+Topics: Réforme du système de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة الحالية لديها تحديات كبيرة جاءت في ضرفية صعبة جدا ،رغم هذا الا انها استطاعت إطلاق العديد من البرامج المهمة كلها تصب في مصلحة الوطن لم تستطع الحكومات السابقة القيام بها وهذا يدل على عزمها لخدمة الوطن والمواطن و من اجل تجاوز كل الصعاب عليها ابدال مجهود مضاعف للتصدي لهذه الازمات
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة اليوم أمام تحدي كبير عليها مضاعفة جهودها من اجل تجاوز كل المشاكل التي تلحق ببلادنا
+Language: Arabic
+Polarity: neutral
+Topics: Rôle du gouvernement dans le secteur de la santé, Gestion des crises sanitaires
+Source File: hespress.txt
+---
+Text: الحكومة اليوم أمام تحدي كبير عليها مضاعفة جهودها من اجل تجاوز كل المشاكل التي تلحق ببلادنا
+Language: Arabic
+Polarity: neutral
+Topics: Rôle du gouvernement dans le secteur de la santé, Gestion des crises sanitaires
+Source File: hespress.txt
+---
+Text: المجهودات التي تقوم بها الحكومة المغربية بقيادة رئيس الحكومة تعمل على القيام بالتدابير اللازمة لضمان المواطنين مستقبل افضل.
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة المغربية بقيادة رئيس الحكومة. حكومة الشعب المغربي تترجم همومه و اماله الى إجراءات عملية يوما بعد يوم.
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة الحالية تملك جرأة كبيرة من أجل طرح مواضيع تؤورق المغاربة
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: وجود حكومة قوية تملك كل المقومات القيادية شرف لكل المغاربة، التواقين إلى التغيير
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: المغرب بحكومته الحالية بقيادة رئيس الحكومة مبعث فخر لنا جميعا من الصغير إلى الكبير
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: اهتمام الحكومة بالجانب الاجتماعي و الاقتصادي للمغاربة هو نتيجة انصات رئيس الحكومة لهمومهم و تطلعاتهم.
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Projet royal de protection sociale, Augmentation des salaires des fonctionnaires
+Source File: hespress.txt
+---
+Text: الحكومة تضع اصبعها على المواضيع الحقيقية التي يجب معالجتها من خلال التشريع و تنفيذ القوانين
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: نحن ندرك جميعا أن وجود رئيس الحكومة على رأس الحكومة الحالية من شأنه الرفع من مردودية العمل الحكومي
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة المغربية بقيادة رئيس الحكومة تتفوق في المجال الاقتصادي و الاجتماعي و تمارس دورها التنفيذي على أعلى مستوى
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة الحالية تضع في اهم اولوياتها اصلاح جميع المجالات عبر خطوات جد ايجابية مشكورة على هذه المجهودات
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: كل ما فطنت له الحكومة الحالية منذ تقلدها المسؤولية و الان نجني ثمار ما تقوم به من اصلاح ضخم في جميع المجالات ونشكرها على هذا المجهود
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: في ظرف الاكراهات والتحديات تنجح في تأسيس حكومة هادفة صراحة هذه الحكومة هي الوحيدة الاي استطاعت مسايرة مسارهم الصحيح بعد كثرة التعثرات
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة الحالية تواجه تحديات كثيرة وتحاول مسايرة الاوضاع ونأمل منها مزيدا من العطاء
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: الحكومة المغربية تقوم بمجهودات جد جبارة منذ ولايتها الحكومة وتسعى لتحقيق البرنامج الحكومي نتمنى لهم التوفيق
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: مسؤوليةالحكومة كبيرة، لأن انتظار آمال المواطنين كبير على المستوى الاقتصادي والاجتماعي والحريات وما نراه يبشر بالخير
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: مسؤوليةالحكومة كبيرة، لأن انتظار آمال المواطنين كبير على المستوى الاقتصادي والاجتماعي والحريات وما نراه يبشر بالخير
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: أكبر عامل يساهم في نتشار الأمراض المعدية هو الإكتظاظ داخل الأقسام و في الممرات المؤدية إليها
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Situation des hôpitaux publics, Gestion des crises sanitaires
+Source File: hespress.txt
+---
+Text: يجب توقيف الدراسة في هذه المناطق عاجلا إلى إن يختفي الوباء فالإحتياطات التي يتكلمون عليها هي واهية ولا تطبق على ارض الواقع وإننا كمغاربة نعرف جيدا إمكانيات وعقلية المسؤولين الغير مستوية
+Language: Arabic
+Polarity: negative
+Topics: Gestion des crises sanitaires, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: أتذكر سنوات الستينيات والسبعينيات حين كانت الحملات الطبية دائمة ومستمرة طيلة السنة الدراسة في المؤسسات التعليمية والتي كان يستفيد منها التلاميذ، بكافة مستوياتهم الاجتماعية، من التلقيحات والفحوصات ومن خلالها يتم توجيههم إلى المستوصفات للعلاج أو تنبيههم وحتهم على الاعتناء بنظافة أجسامهم… واليوم ورغم التطور الذي حصل في المواصلات والتنقل ووسائل العلاج ، نجد العديد من المواطنين، الذين يعيشون بالمناطق النائية المهمشة، محرومين من التطبيب والعلاج والتلقيح ضد الأمراض المعدية التي اندثرت منذ عشرات السنين وعاد انتشارها في بلدنا وكأننا في بداية القرن الماضي..
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Problèmes liés à la santé publique, Manque de ressources dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: عام يذهب واخر ياتي وكل شيء فيك يزداد سوء يا وطني
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: hespress.txt
+---
+Text: لا جديد مجرد در الرماد في العيون و ربح الوقت
+الصحة العمومية تسير نحو الصحة الخصوصية والاستثمار فيها وتسريح المستخدمين) ات(
+Language: Arabic
+Polarity: negative
+Topics: Réforme du système de santé, Conditions de travail des professionnels de santé, Manque de ressources dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: الاتفاق مع الفرامليا وتقنيي الصحة. وماذا عن الاطباء ….؟؟
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Réforme du système de santé
+Source File: hespress.txt
+---
+Text: نقابة الأطباء تتكون من الأذكياء ولن يساوموا مطالب زملائهم ببعض من الإمتيازات الخبزية كما فعل البعض باعوا الكل من أجل سلم و ماستر بدون وجه حق لا تساوي شيئا أمام ما حيك لزملائهم من نصوص فكل التحية للنقابة المستقلة الأطباء والخزي والعار لتجار العمل النقابي.
+Language: Arabic
+Polarity: positive
+Topics: Conditions de travail des professionnels de santé
+Source File: hespress.txt
+---
+Text: داء بوحمرون يفتك بأرواح المغاربة و الوزارة نائمة و من الممكن ظهور وباء قاتل فهل وزارة الصحة وضعت استراتيجات لمواجهة هذه الأوبئة الفتاكة أنا لا أظن ذلك
+Language: Arabic
+Polarity: negative
+Topics: Gestion des crises sanitaires, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: حال الصحة لن يتحسن إلا بربط ترقية الموظفين بالأداء الفعلي لمهامهم و الإنظباط واقع الحال يقول العكس الترقية للمتقاعسين المتملقين و لأشباه النقابيين .
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Réforme du système de santé
+Source File: hespress.txt
+---
+Text: يضحكني واقع من يطالبون بإطار عالي و طرق ولوجهم الماستر كانت جد متدنية.
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé
+Source File: hespress.txt
+---
+Text: الصحة نعمة من الله والدولة ليس من مسؤلياتها تحمل مجال الصحة ولكن بالمقابل لا تفرض الضراءب والاقتطاعات وتسرح الممرضين والاطباء للعمل في القطاع الخاص مع التسهيل لهم ودعمهم وعدم فرض tva والضراءب الاخرى وسوف نشهد تطورا صحيا افضل من امريكا اما جعل الطبيب والممرض في مستوصف يعد الساعات والايام هذا هدر لطاقة كبيرة وادمغة ماهرة وفي النتيجة السير قدما نحوا الحائط
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Conditions de travail des professionnels de santé, Accès aux soins et aux médicaments, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: ورش اصلاح الصحة ليس ما تنفذه الحكومة ما نشاهده اليوم هو عكس الاصلاح اذ تتجه الحكومة الى خوصصة الصحة و والقضاء على القطاع العمومي وتشجيع القطاع الخاص وحرمان المواطن من حقه اادستوري في الصحة والاستشفاء
+الراميد انتهى وامو التظامن في مهب الريح بسبب ارتفاع المؤشر او اسباب وهمية اخرى
+Language: Arabic
+Polarity: negative
+Topics: Réforme du système de santé, Accès aux soins et aux médicaments, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Couverture sociale et santé, Projet royal de protection sociale
+Source File: hespress.txt
+---
+Text: نقابة الأطباء تتكون من الأذكياء ولن يساوموا مطالب زملائهم ببعض من الإمتيازات الخبزية كما فعل البعض باعوا الكل من أجل سلم و ماستر بدون وجه حق لا تساوي شيئا أمام ما حيك لزملائهم من نصوص فكل التحية للنقابة المستقلة الأطباء والخزي والعار لتجار العمل النقابي.
+Language: Arabic
+Polarity: positive
+Topics: Conditions de travail des professionnels de santé
+Source File: hespress.txt
+---
+Text: نسمع دائما عن إحتجاجات وإضرابات وفي غالب الأحيان نتهم طرف على الأخر أي الوزارة أو الطبيب . لذا لتوضيح الرؤيا يجب خلق حوار عبر شاشة التلفزة العمومية وليس المذياع . وفي أوقات الذروة لأنه موضوع حساس ومهم ونعرف أين الخلل ومذا يريد الطبيب العام .
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: هذا النظام الأساسي لأطباء القطاع العام فضيحة ومحاولة لتهجير ما تبقى من الأطباء في القطاع العمومي إلى القطاع الخاص ؛ حيث بما أنه سيصبح الطبيب يتبع المستشفى الجامعي وهو فقط مستخدم فأفضل له أن يتبع للقطاع الخاص أو يفتتح عيادته وبذلك سيصبح المستوصف خاليا من الطبيب . نحن في سبات عميق وجل الخدمات العمومية تخوصص من حولنا ؛
+Language: Arabic
+Polarity: negative
+Topics: Réforme du système de santé, Conditions de travail des professionnels de santé, Situation des hôpitaux publics, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: تحية للطبيب و كل رجال الصحة العمومية بالمملكة المغربية، نتمنى لهم التوفيق في تحقيق أهدافهم لصالح الصحة العمومية. تحية نظالية لكم
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: hespress.txt
+---
+Text: من لا خبر فيه لبلده ،فلا خير فيه،هؤلاء الشريحة سواء في قطاع الصحة او قطاع التعليم همهم الوحيد هو مزيد من الأموال ومزيدا الامتيازات على حساب مصالح البلاد والعباد،وأنا شخصيا قد طالبت مرارا وتكرارا بجلب الأطباء المتمكنين والذين لهم شيئ،من الإنسانية من أفريقيا او اسيا او من دول أميركا الاتينية ولهم خبرة في الميدان حتى اجورهم أقل من اجور هؤلاء والذين ياخذون مصير المرضى كرهائن لمساومة الدولة وهاته الفوضى والتسيب يجب مواجهتها بكل قوة وحزم بحل اولا هاته النقابات او النفايات وطرد كل من لا يلتحق بعمله ،يمكن العمل وحمل شارات احتجاجية وليس التوقف عن العمل وخاصة في ميدان الصحة والتعليم ولا مكان للعواطف والعصا لمن عصى ولي ماعاجبو الحال فل يقدم استقالته
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: التنسيق النقابي يدافع عن منتسبيه فقط بفضل الريع النقابي طبعا توزيع شطيرة امتحانات الكفاءة المهنية للممرضين و الماسترات أما للنقابة المستقلة للأطباء هي أكثر موضوعية و من خلال التجارب هي لا تتنازل عن مطالب الأطباء من أجل أهداف شخصية كما يفعل من وال عنهم الحجاب و إنكشفت نوياهم فكل التحية للنقابة المستقلة للأطباء. ترويج الوهم بإطالة العمر بالممارساتية الرياضياتية و الطمع بالحياتية فيما الموت بالمرصادية
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé
+Source File: hespress.txt
+---
+Text: ليس هناك شيء يطيل العمر او يقصره فالأعمار بيدالله سبحانه ، يجعل له أجل ( ولكل أمة أجل فإذا جاء أجلهم لا يستأخرون ساعة ولا يستقدمون) سواء بالرياضة أو بالريادة . نسأل الله البركة في العمر.
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: hespress.txt
+---
+Text: الأعمار بيد الله سبحانه وتعالى كم من رياضي مات في عز شبابه
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: hespress.txt
+---
+Text: كل من اخترع الآلات الرياضية مات بعمر الأربعين والخمسين اذا هي تهدم الصحة اما الأعمار لا ينقصها ولا يزيد فيها إلا هو سبحانه في سلك الشرطة نعمل الليل و النهار و في كل فصول السنة انا شخصيا اعاني من امراض مزمنة و نفسية لا تعد و لا تحصى و ذون اي تعويض يذكر
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Santé mentale
+Source File: hespress.txt
+---
+Text: أخطار صحية بالجملة تتربص بالمشتغلين في الفترة الليلية….أما العاطل فهو لا ينام سواء ليلا و لا نهارا أليس هذا من الأخطار الصحية….و فين هي الخدمة نخدم 24 ساعة على 24 ساعة 7 أيام على 7 أيام و حثى 70 عام ماشي 65 عام
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Conditions de travail des professionnels de santé
+Source File: hespress.txt
+---
+Text: وهل البطالة لا تتربص بصحة المواطن ، في سلك الشرطة العمل ليلا يكون بالتناوب
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: اشتغلت اكثر من 20سنة ليلا في الديار البريطانية لندن والان عدت إلى المغرب والصحة جيدة والحمد لله
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: hespress.txt
+---
+Text: هي بقات في تزواق وتغيير المدونة… خاصنا نبدلوا النسبيطارات والمسؤولين.. أما المدونة فهي بريئة مما يفعلون!!
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics
+Source File: hespress.txt
+---
+Text: بطبيعة الحال ستصبح المرأة في خطر اكثر مما يتصور !!! و السبب أنها حرمت زوجها من احضار زوجة أخرى مثلها لمساعدتها في شؤون البيت
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: بل صحة الرجل والمراءة والأسرة باكملها في خطر ، الأنانية التي أصابت المجتمع
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: طبعا ،ما دام الهاتف الذكي يرافقها ليل نهار، و في كل وقت وفي كل مكان.ليست فقط صحتها في خطر بل كل من يحيطون بها في مليون خطر.مع كامل احتراماتي للمرأة.
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: وصحة الرجل أليست في خطر ….قريبا سيتهم كل زوج امرأته مريضة لأنه هو السبب …الزوج هو سبب فقر المرأة ومرضها و ووووو…ليست الدولة ….انها شماعة يعلقون عليها فشلهم .
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: “المغربيات” ستكون صحتهن بخير وعلى خير عندما يبتعدن عن نفخ الشفاه والأرداف وأكل “دردك” و “اللحسة الصحراوية” وعن مساحيق ومستحضرات التجميل والإبتعاد عن البوتوكس والسيليكون و السحر والشعوذة والهواتف والمسلسلات ومختلف التفاهات.
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: شيء مؤسف جدا أن نسمع منذ عقود مغربا نافعا ومغربا غير نافع ولازلنا نعيش الحالة حتى الان !!! أولا نرجو رد وزارة الصحة حتى تتبين الأمور، أما إذا كان الخبر صحيحا، فوا أسفاه !!! الأمم يقاس مستوى تقدمها ومدى مسؤولية وكفاءة حكوماتها بمستوى الأساسيات: الصحة، السكن، التعليم والشغل. المغرب تطور كثيرا في هذه المجالات ولكن ثم ولكن، بدون توازن مع الأسف الشديد. لابد للمسؤولين المغاربة أن يعوا جيدا أن جلالة الملك نصره الله كان يلقب في بداية حكمه بملك الفقراء. الحكومة لابد أن تهتم بالفقير قبل الغني، القرية قبل المدينة. المحتاج قبل الميسور. نتمنى من سعادة وزير الصحة أن يعكف على هذا الملف: لابد لكل منطقة في القرى المغربية من مستوصف بمعنى الكلمة. هذا حق كل مغربي وليس صدقة أو إكرامية !!! وواجب على وزارة الصحة تحقيقه. واللي ماقادش على المسؤولية ينسحب فهدوء…
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: لا داعي لأن يرهق نفسه، فالسيد سعد الدين العثماني قد جعل المغاربة يعيشون الاكتئاب بتفاصيله و ليس فهمه فقط في فترة رءاسته للحكومة و شكرا هيسبريس
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: “تثبت إحصائيات منظمة الصحة العالمية أنه كلما زاد تأثير الأمراض النفسية على حياة الإنسان، فإنه يؤدي إلى العجز، وقلة الفاعلية، وقلة الإنتاج، وقلة العمل؛ وهي الأمراض الأكثر تأدية للتغيّب عن العمل، وقلة الإنتاج فيه”
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: الرأسمالية المتوحشة حتى في الصحة النفسية، الإنسان مجرد آلة للإنتاج ،العمل والإستهلاك
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: في المغرب أخر شيءيمكن الحديث عنه هو الصحة النفسية فالأغلبية معطوبون نفسيا بشكل أو بأخر والأسباب في أغلبها اجتماعية واقتصادية ومن بينها تفشي الكبت والإنغلاق على الذات والتقوقع
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: مبادرة جيدة أين يباع الكتاب لمن يريد شراءه لعله من الأفضل نشره اونلاين لمن يريد الحصول على نسخة إلكترونية لقراءته دون عناء البحث عن نسخة ورقية رغم انه تكلف عناء الطباعة الا انه نظرا لكون صاحبه لا اضن انه محتاج لمداخيله فسيكون له اجر لو مكن العامة من نسخة إلكترونية… ويكون له اجرين: اجر التأليف والطباعة وأجر التصدق بمداخيله …
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: hespress.txt
+---
+Text: الإكتئاب و الضوء و الماء مع ساروت و البزبوز.
+Language: Arabic
+Polarity: neutral
+Topics: Santé mentale
+Source File: hespress.txt
+---
+Text: تسليط الضوء على الصحة النفسية في المجتمع، كما فعل سعد الدين العثماني في هذا السياق، هو خطوة مهمة نحو بناء وعي أعمق حول الأمراض النفسية وتأثيراتها على الأفراد والمجتمع ككل. التركيز على المعرفة والفهم الصحيح لهذه الأمراض يُعَدّ أمرًا أساسيًا للحد من المعاناة النفسية وتحسين جودة الحياة. كما أن الإشارة إلى تأثير الأمراض النفسية على الإنتاجية والعجز الوظيفي تُبرز أهمية تبني استراتيجيات وطنية قوية ومستدامة لدعم الصحة النفسية. يبقى السؤال الأهم: كيف يمكن تعزيز دور هذه الاستراتيجيات بشكل فعال لتلبية احتياجات الأفراد في مختلف فئات المجتمع؟
+Language: Arabic
+Polarity: positive
+Topics: Santé mentale, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: اسلم طريق لتقليل المعاناة النفسية والاكتاب والجنون عند المغاربة سببه حزب العدالة والتنمية والحكومة الحالية فقرتم الفقير مما أدى إلى مشاكل اسرية ومجتمعية لا لادواء ولاشفاء لها.
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: سبب الاكتئاب السيد العثماني هو البعد عن الله وعن دينه الحنيف هذا أولا ثم تسيير الحكومات المتعاقبة وأنتم منهم ،للبلاد حيث جعلتهم جل المغاربة فقراء لا يفكرون إلا في القفة والكراء والكهرباء والماء ومدارسكم الخصوصية..فاصبح المغربي يصيبه الاكتئاب بمجرد التفكير في الأمور السابقة الذكر….
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: مكاين لي دار الاكتئاب للمغاربة قد السياسيين والقوانين لي طبقوها عليهم ابتداءا من بجيدي وصولا للاصالة ، الله يلطف بنا .
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: سبب الاكتئاب عند المغاربة هو قلة ذات اليد و علاء الأسعار وتراكم الديون والمشاكل العائلية المترتبة على ذلك.
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: الاكتئاب هو اللي حسيت بيه نهار سنيتي على معاهدة التطبيع.
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale
+Source File: hespress.txt
+---
+Text: العلاج الوحيد هو العيش الكريم
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: hespress.txt
+---
+Text: سبب الاكتئاب و الأمراض النفسية و الوسواس القهار هو الزلط و البطالة و غلاء المعيشة.
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: بيدو انا الدكتور اختلطت عليه الامور , مما لا يختلف حوله في مجال المعرفة وتلقين دروسها هو ان الدروس النظرية تكون سباقة على الدروس التطبيقية , لكن الحصل مع دكتورنا هو انه قدم لنا الدروس التطبيقية في مادة الاكتأب عندما كان يقود الحكومة حيت اخضع المغاربة لتجربة قصرية من الاكتأب عبر الزيادة في الاسعار و غلاء المعيشة و رفع الدعم عن المواد الاساسية اضافة الى تعنته في اتخاد قرارات ضدا الارادة الشعبية , تم يأتي اليوم ليعطينا الدروس في شقها النظري , ما هاكدا تدرس المعرفة يا رئسنا ههههه
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Prix des médicaments et des soins, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: الإكتءاب هو أيضا يعاني منه منذ توقيعه على ذالك التطبيع و هو مندهش لا يعرف ما الذي يحصل..!! اش عند هاد السيد ميقول مسكين..!!
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale
+Source File: hespress.txt
+---
+Text: السردين وصل ثلاثين درهم للكيلو
+Language: Arabic
+Polarity: negative
+Topics: Prix des médicaments et des soins, Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: أمراض نفسية منتشرة” .. العثماني يساعد المغاربة في فهم الاكتئاب، بل ساعد المغاربة في فهم الفساد المنتشر في البلاد الذي يؤدي إلى ضياع الحقوق والاغتناء غير المشروع والترامي على الاملاك العمومية ونهب الميزانيات والتوظيفات المشبوهة والمحسوبية والزبونية ، أما الاكتئاب فأمره بسيط عندما يحصل الناس على حقوقهم المشروعة من صحة وتعليم وشغل فلن تجد أحدا مكتئبا.
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: لكنك لم تعرف نفسية المغاربة
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale
+Source File: hespress.txt
+---
+Text: للأسف لم تعرف ان المغاربة عندما ضربتم صندوق المقاصة ضربتم نفسية المغربي،لا يهم ان تكون فرحات لكن المهم ان لا تضرب جيبه عندئذ سيكون سعيد او راضي ،لكن عندما تضرب قدرته الشرائية فسيصاب باكتئاب ،لا تحتاج إلى دكتور نفسي لفهمها،ساهلة ماهلة خليونا دون ان تلمسوا جيوبنا سنكون شاكرين وندعو لكم
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: اسباب الاكتئاب يعرفها الصغير و الكبير : انها الفقر و البطالة و الجهل و التطرف و الدكتاتورية
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Impact des politiques gouvernementales sur la santé, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: الأمراض النفسية
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale
+Source File: hespress.txt
+---
+Text: حكومتنا الفاشلة هى سبب جميع الأمراض النفسية والعصبية وحتى العقلية التى أصيب بها مجتمعنا …
+Language: Arabic
+Polarity: negative
+Topics: Santé mentale, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: وخصوصا ان فتره اقترنت بكورونا!لكن العالم كله عانى في تلك الفترة و الدول التي لم تطبق الحجر الصحي كان عدد الولايات جد مرتفع احنا في المغرب نتماو الحمدلله !و من بعد كورونا عرف العالم غلاء منقطع النظير!!ياربي ترحمنا ادبامطار
+Language: Arabic
+Polarity: negative
+Topics: Gestion des crises sanitaires, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: غلاء الأسعار هو سبب الخرف وليس غلاء اللحوم
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Impact du prix de la viande sur la santé, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: شكراً لحكومتنا الموقرة التي ارتفع ثمن اللحم في عهدها إلى عنان السماء ، وهذه طريقة علاجية ناجعة حتى نتجنب مخاطر أكل اللحوم . اتمنى ان تتفضل في خيرها وتوقف شعيرة عيد الأضحى .
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: و ما هي اللحوم الحمراء؟ مع غلائها اصبحت لا اعرفها.
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: غالبية المغاربة أصبحوا لا يشترون اللحوم الحمراء بسبب الغلاء الفاحش (130 درهم للكيلو) الذي ضرب هذا الطعام المهم بالنسبة لنمو و صحة المغاربة و السياسة الخرقاء للحكومة. وبالتالي هذا المقال لا يهم هذه الشريحة من المغاربة لأنهم أصلا أصبحوا محرومين من اللحوم الحمراء التي كانت ضيقة على موائد كل شرائح المجتمع المغربي منذ الإستقلال إلى غاية تنصيب الحكومة الحالية.
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé, Impact des politiques gouvernementales sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: لا خوف على المواطن من هذا المرض بعد ان اصبح ثمن كيلو من اللحم غالي جدا عليه الا من استطاع له سبيلا ويتناوله كل يوم.
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: بشرى للمغاربة هذا المرض لا يعنينا….
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: hespress.txt
+---
+Text: شكراً ، لحكوماتنا التي تريد لنا دوام الصحة والعافية لدالك باشرة زيداء في ثمن الحوم الحمراء والبيضاء.
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé, Rôle du gouvernement dans le secteur de la santé, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: وهل وجدنا هدا اللحم حتى نقوم باخد صورة معه
+اللحم الابيض وبالكاد نتحصل عليه
+الحمد لله اننا نتناوله في عيد الاضحى فقط
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: الإفراط في اللحوم الحمراء يزيد احتمال الإصابة بالخرف و ما هو أعراض الجوع ؟
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: من الأفضل تجنب الحديث عن اللحوم الحمراء وخاصةلحم البقر في الوقت الحالي لأن استحضار هذا الموضوع يسبب الكثير من الألم لأغلب المواطنين وشكرا هيسبريس
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: هذا خبر فقط يروم إمتصاص غضب المستهلك المغربي و عجز الحكومة على إيجاد حلول لخفض أثمنة اللحوم…لأن هناك إحتمار من طرف كبار الكسابة مع مسؤولين في الحكومة ..
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé, Rôle du gouvernement dans le secteur de la santé, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: وماذا عن انقطاع بروتين اللحم من الموائد المغربية؟ فهذه الحالة هي التي يجب أن تناقش ويتم فيها بحوث.
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: استخلاص بمحله لهروب مسؤولين لظبط وقف ارتفاع اسعار ضاعت وعثرون عنها يحفظون ما يسترسلون قواليب ولحم يخزن لحكومة من بيهم
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: اصبحت العلاقة بيننا وبين اللحم سوى عيد الاضحى،الدي نستطيع فيه التلدد بمداق اللحم ولو لأيام قليلة
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: سبب الخرف هو الغلاء الفاحش وليس اللحوم الحمراء .لك الله ياوطني
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: hespress.txt
+---
+Text: الإفراط في اللحوم الحمراء يزيد احتمال الإصابة بالخرف هههههههه نكتة حيث في بداية ظهور التلفاز بالألوان دائما أقول لأبي أن يشتريها لنا و دائما جوابه التلفاز بالألوان مضرة بالعين….
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: واخيرا الحكومة اعطتنى هدا التقرير الدي يخص اللحوم الحمراء وتهتم بصحة المواطن جزاك الله خيرا، نرجوا منك تقرير اخر عن اللحوم البيضاء والسمك والخضار وزيت الزيتون والغازوال والبنزين وكل ما ارتفع ثمنه في عهدكم
+Language: Arabic
+Polarity: positive
+Topics: Impact du prix de la viande sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: hespress.txt
+---
+Text: اللحوم الحمراء والاسماك الى جانب الدجاج بسبب ارتفاع اثمانها في الاسواق اصبح العديد من المغاربة يتحاشون اقتناءها
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: فعلا الحكومة زادت في اثمنة اللحوم ولم توافق بين دخل الفرد ومصارفه خوفا على مرضه المسكين وحتى يتفادى العواقب المرضية لمستهلكي اللحوم ….
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: hespress.txt
+---
+Text: بين قوسين ()
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: hespress.txt
+---
+Text: بين قوسين () هذه الدراسة مخصوصة فقط للطبقة الكادحة التي تنظر لثمن ١٢٠ درهم للكيلو أنه مصروف أسبوع بالكامل. أما الطبقة التي أغناها الله (اللهم لاحسد) فهذه الطبقة لاتدخل في هذه الدراسة، بل بالعكس.. عدم تناول اللحوم بكمية كافية يؤدي للخرف. هادشي عندهم ماشي عندنا. فقط للتوضيح ارحم باباكم !
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: وعلاش الوزراء والبرلمانيين والمستشارين ورؤساء جماعات ما جاهم لا خرف لا ستة حمص مع ان موائدهم لا تخلو من زينة اللحوم الحمراء يوميا . ما يسبب الخرف هو سوء التغذية ونقص الفيتامينات بسبب غلاء الأسعار.
+Language: Arabic
+Polarity: negative
+Topics: Impact du prix de la viande sur la santé, Problèmes liés à la santé publique, Prix des médicaments et des soins
+Source File: hespress.txt
+---
+Text: ههه جميع من عرفتهم اصيبو بالخرف اعرف اوضاعهم المادية لا تسمح لهم باكل كيلو غرام سنويا كدبو علينا مع روسكم
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: اللحم و الخرف .
+Language: Arabic
+Polarity: neutral
+Topics: Impact du prix de la viande sur la santé
+Source File: hespress.txt
+---
+Text: الخطر هو الرطوبة في الجيوب…مع غلاء الأسعار القدرة الشرائية
+Language: Arabic
+Polarity: negative
+Topics: Prix des médicaments et des soins, Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: بطبيعة الحال ستصبح المرأة في خطر اكثر مما يتصور !!! و السبب أنها حرمت زوجها من احضار زوجة أخرى مثلها لمساعدتها في شؤون البيت
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: hespress.txt
+---
+Text: بل صحة الرجل والمراءة والأسرة باكملها في خطر ، الأنانية التي أصابت المجتمع
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: طبعا ،ما دام الهاتف الذكي يرافقها ليل نهار، و في كل وقت وفي كل مكان.ليست فقط صحتها في خطر بل كل من يحيطون بها في مليون خطر.مع كامل احتراماتي للمرأة.
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: وصحة الرجل أليست في خطر ….قريبا سيتهم كل زوج امرأته مريضة لأنه هو السبب …الزوج هو سبب فقر المرأة ومرضها و ووووو…ليست الدولة ….انها شماعة يعلقون عليها فشلهم .
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+Text: “المغربيات” ستكون صحتهن بخير وعلى خير عندما يبتعدن عن نفخ الشفاه والأرداف وأكل “دردك” و “اللحسة الصحراوية” وعن مساحيق ومستحضرات التجميل والإبتعاد عن البوتوكس والسيليكون و السحر والشعوذة والهواتف والمسلسلات ومختلف التفاهات.
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: hespress.txt
+---
+
+File: comments/mouwadafine.txt
+------------------------------
+
+Topics:
+- Réforme du système de santé: 167
+- Accès aux soins et aux médicaments: 41
+- Conditions de travail des professionnels de santé: 30
+- Gestion des crises sanitaires: 26
+- Problèmes liés à la santé publique: 27
+- Manque de ressources dans le secteur de la santé: 31
+- Rôle du gouvernement dans le secteur de la santé: 25
+- Impact des politiques gouvernementales sur la santé: 10
+- Prix des médicaments et des soins: 16
+- Santé mentale: 12
+- Situation des hôpitaux publics: 10
+- Impact du prix de la viande sur la santé: 11
+- Couverture sociale et santé: 7
+- Projet royal de protection sociale: 5
+- Augmentation des salaires des fonctionnaires: 6
+
+Comments:
+Text: الأنظمة الأساسية لكل من الوكالتين ستظهر الكثير حول وضعية العاملين بالقطاع الصحي
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé
+Source File: mouwadafine.txt
+---
+Text: Ils vont compliquer d avantage la procédure et ajouter plus de retard dans un secteur très vital
+Language: French
+Polarity: negative
+Topics: Réforme du système de santé, Problèmes liés à la santé publique
+Source File: mouwadafine.txt
+---
+Text: جهة التزامر والتآمر
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: mouwadafine.txt
+---
+Text: La galik zyada dyal juillet ghatkon had le mois
+Language: French
+Polarity: neutral
+Topics: No topics
+Source File: mouwadafine.txt
+---
+Text: خطأ
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: mouwadafine.txt
+---
+Text: Membre anonyme nn mr hta l juillet 2025..daba ri IR.. 3LA HSSAB L GRADE.. HORS ECHEELLE 450...WNTA NAZAL HTA ECHELLE 6.. 60 DH..
+Language: French
+Polarity: negative
+Topics: Augmentation des salaires des fonctionnaires
+Source File: mouwadafine.txt
+---
+Text: Rien que ir Zyada d 200 dh tal juillet 500 dh aussi tal juillet
+Language: French
+Polarity: negative
+Topics: Augmentation des salaires des fonctionnaires
+Source File: mouwadafine.txt
+---
+
+File: comments/msps.gov.ma.txt
+------------------------------
+
+Topics:
+- Réforme du système de santé: 167
+- Accès aux soins et aux médicaments: 41
+- Conditions de travail des professionnels de santé: 30
+- Gestion des crises sanitaires: 26
+- Problèmes liés à la santé publique: 27
+- Manque de ressources dans le secteur de la santé: 31
+- Rôle du gouvernement dans le secteur de la santé: 25
+- Impact des politiques gouvernementales sur la santé: 10
+- Prix des médicaments et des soins: 16
+- Santé mentale: 12
+- Situation des hôpitaux publics: 10
+- Impact du prix de la viande sur la santé: 11
+- Couverture sociale et santé: 7
+- Projet royal de protection sociale: 5
+- Augmentation des salaires des fonctionnaires: 6
+
+Comments:
+Text: ابو اسامه الرفاعي
+عندي رحله يومتاريخ2/11
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: للأسف التلقيح غير موجود بالصيدليات ةالناس عندهم الرحلة يوم 4/02/2025
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: كم ثمن هاد اللقاح و اين ناخده عند طبيب او ممرض
+Language: Arabic
+Polarity: neutral
+Topics: Accès aux soins et aux médicaments, Prix des médicaments et des soins
+Source File: msps.gov.ma.txt
+---
+Text: جليل زلوفي
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: نتمنى من Ministère de la Santé et de la Protection Sociale du Maroc فتح مبارة توظيف ممرضين معطالين من اجل تعزيز موارد بشرية
+Language: Arabic
+Polarity: positive
+Topics: Conditions de travail des professionnels de santé, Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: والاضراب
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé, Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: متفق معك ولكن يبقى السؤال المطروح تائها
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: Je t aime ana
+Language: French
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: Merieme Belfatmi
+Language: French
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: Dr Belfatmi est une fierté pour le domaine de la santé
+Language: French
+Polarity: positive
+Topics: Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: مجرد شعارات لايوجد نظام عربي يثمن الانسان لانهفي بلادنا لا يساوي حسب النظام العالمي نحن مجرد حشرات نموت كما تموت و غزة مثال بارز... تلكم فقط شعارات للاستهلاك... الإنسان لا حق له... و الموظف يعيش،في القطاعات الاجتماعية خاصة الصحة في أسوأ الظروف لانه و من سيعالج لا قيمة لهم...
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: تثمين الموارد البشرية يكون بتنزيل اتفاق يوليوز كاملا بشقه الاعتباري والمادي ياا من توقعون تم تتنكرون
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق لهم، واين ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: نتمنى من وزارة فتح مبارة توظيف ممرضين
+Language: Arabic
+Polarity: positive
+Topics: Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: الوزارة تماطل ولا تنفذ إلتزاماتها التي أبرمتها مع النقابات ،وتغالط الرأي العام بخرجات مسؤوليها ،فعندما تستمع إلى تصريحات من يمثلها تطرح تساؤلا مفاده : هل النفاق والمراوغة ولغة الخشب هي من الصفات التي تشترط لممارسة العمل السياسي؟؟؟ ولماذا هؤلاء المسؤولون يسوقون لإنجازات صورية ؟؟؟
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: تزحزح الجبل فأنجب فئرا
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: https://tanjaoua.ma/.../%d8%ae%d8%a8%d8%b2-%d8%a7%d9%84.../ 
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: فين هي الهيئة الوطنية للمدربين؟
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: تثمين الموارد البشرية يمر عبر تنفيذ كل مضامين الاتفاق الموقع مع التنسيق النقابي بالقطاع، غير هذا لا أجد لكلمة تثمين أي موطئ في قاموس تعاملكم مع الشغيلة الصحية
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: غير صحيح..تثمين الموارد البشرية ليس في اهتمام وزارة الصحة ، لو كانت مهتمة فعلا لنفذت ماتم الاتفاق عليه مع النقابات ، ولو ان الاتفاق كانت فيه تنازلات كثيرة عن بعض المطالب..
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: الاتفاق يجب ان يترجم الى مرسوم او قرار وزاري من أجل تنفيذه
+Language: Arabic
+Polarity: neutral
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: اولا إنزال على الطاولة جميع مراسيم الإتفاق السابق عاد تكلموا على أشياء أخرى
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: أين هو التثمين و أين هو التحفيز حينما يقصى ويستثنى عدد من الموظفين الذين يعملون بشكل مباشر في البرامج الصحية، هؤلاء تم استثناؤهم من الاستفادة من التعويضات الخاصة بالبرامج الصحية والخدمات الصحية المتنقلة التي ينجزون مخططاتها وبرامج عملها السنوية و تتبعها و إنجاز تقاريرها و كذا مهام تقاطعاتها والتنسيق بين المصالح لإكمال معطياتها وإنجازاتها بما فيها الاستشفائية والتنقل الميداني في القوافل الطبية.....، و تعويضات سنوية أخرى ..
+هذا الأمر حاصل بإقليم تاونات ؟؟؟!!!!!
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: تجاهل الكفاءات هو عنوان وزارة الصحة والحماية الاجتماعية
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: خير تبارك الله
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: واااااا إتفاق ٢٣ يوليوز
+Language: Arabic
+Polarity: neutral
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: تواصل و كأنها بدأت!!!!!
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: تثمين الموارد البشرية هو تنزيل اتفاق يوليوز كاملا
+Language: Arabic
+Polarity: positive
+Topics: Réforme du système de santé, Conditions de travail des professionnels de santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: أين تنزيل اتفاق 23 يوليوز؟سياسة الهروب إلى الأمام
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: في انتظار تحقيق العدالة الممرضين و تفني الصحة الدكاترة على غرار و ارى التعليم
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: رغم الشعارات المرفوعة حول إصلاح المنظومة الصحية وتعميم الحماية الاجتماعية، يعيش قطاع التمريض وتقنيات الصحة على وقع أزمة غير مسبوقة، حيث تقوم وزارة الصحة والحماية الاجتماعية بإقصاء الكفاءات التمريضية الحاصلة على الدكتوراه، مقابل فتح المجال لدكاترة من تخصصات لا تمت للمجال بصلة.
+Language: Arabic
+Polarity: negative
+Topics: Réforme du système de santé, Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Couverture sociale et santé
+Source File: msps.gov.ma.txt
+---
+Text: أين هو اتفاق 23 يوليوز ؟؟؟
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: أين هو اتفاق 23 يوليوز ؟؟؟
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: وضع المؤشر العالمي لصحة المرأة، الذي تُصدره سنويا مؤسسة “هولوجيك” الطبية الأمريكية، المملكة المغربية في المركز الـ131 عالميا من أصل 141 بلدا شمله التصنيف؛ وذلك بعد حصولها على تنقيط بلغ 38 نقطة من أصل 100.
+وتصدرت تايوان قائمة المؤشر، الذي يوفر البيانات الأكثر شمولا حول صحة المرأة ورفاهيتها على مستوى العالم، بعد حصولها على 68 نقطة، متبوعة بدولة الكويت التي حلت ثانية برصيد 67 نقطة، ثم النمسا التي جاءت في المركز الثالث برصيد 66 نقطة؛ فيما تذيلت أفغانستان القائمة برصيد لم يتجاوز 30 نقطة.
+#المغرب #الصحة #هولوجيك
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: هل هذا انجاز
+بل هذا تماطل لان المرسوم اتفق عليه منذ 2022.
+واين بقية المطالب لباقي الفئات؟
+Language: Arabic
+Polarity: negative
+Topics: Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: أين هو اتفاق يوليوز ؟
+لماذا هناك إضراب على مستوى جميع المؤسسات الصحية الأسبوع القادم والذي بعده ؟
+عن أي تثمين تتحدثون ؟
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: السلام عليكم ورحمة الله وبركاته ، فين هذا التثمين اش من بلاد.
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: اودي وزارة الصحة تشوف غي هذا الدجال الذي يغزو مواقع التواصل الاجتماعي؛ كل أصبح فيها معالج وتباع فيه خلطات وزيوت أعشاب تشكل خطر على صحة المواطنين وهذا كل امام مرئ الكل لمادا لم تتدخل الجهات المختصة لوضع حد لهذا
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: ملف الممرضين الدكاترة اين وصل ؟
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: اما المتصرفين فكأنهم غير موجودين
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: قالك تنفيذ الإلتزمات.....🤣🤣
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: اين اتفاق 23 يوليوز ؟؟؟
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: اين هو اتفاق يوليوز ؟
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: كارتة
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: الضحك على الدقون
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: أين تنزيل اتفاق 23 يوليوز؟
+Language: Arabic
+Polarity: neutral
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: الجمعية المغربية لتعزيز الصحة تدعو الى تثمين الموارد البشرية الصحية وتنفيذ جميع الاتفاقات الاجتماعية فورا.
+Language: Arabic
+Polarity: positive
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق لهم، ماذا عن ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: وما محل ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: وزارة الصحة تعترف بديبلومات الماستر للجامعة ولا تعترف بالديبلومات و الدراسات الخاصة بها. مهزلة
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق لهم، واين ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق لهم، واين ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Polarity: neutral
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: بارك الله في سيدنا وعقبال مراكز صحية ومستشفيات مدينة فاس ان شاء الله سيد وزير الصحة
+Language: Arabic
+Polarity: positive
+Topics: Situation des hôpitaux publics, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: Aji chouf l’hôpital 3ndna mafih hta l alcool
+Language: French
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: مزيدا من التوفيق من أجل صحة أفضل وحماية اجتماعية للفئات المستهدفة
+Language: Arabic
+Polarity: positive
+Topics: Couverture sociale et santé, Projet royal de protection sociale
+Source File: msps.gov.ma.txt
+---
+Text: ماشاءالله
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: Sans infirmièreî
+Language: French
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: سلام عليكم
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اما مستشفيات البادية بإقليم سيدي قاسم من بينهم جماعة اولاد نوال ممرضين أشباح حرصين الا على الغياب اما المواطن لا يهمهم بتاتا(نداء لوزير الصحة والمندوب الاقليمي)
+Language: Arabic
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Conditions de travail des professionnels de santé, Accès aux soins et aux médicaments, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: أكبر عملية احتيال في تاريخ وزارة الصحة
+أن عمليات إعادة تأهيل 1400 مركز صحي هي غطاء لتبرير تبديد الأموال العمومية لأن غالبية هذه المراكز في حالة لابأس بها و لا تحتاج كل تلك الميزانية الضخمة التي ستذهب للمقاولات البناء.
+Language: Arabic
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: وزارة الشفوي
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: قطاع الصحة في المغرب مجرد إسم فقط...مع الأسف الشديد هذا هو واقع المغرب الحبيب
+Language: Arabic
+Polarity: negative
+Topics: Réforme du système de santé, Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: # الموضوع: مستشفى العار - حالة WB / توفيت يوم الأحد 19 يناير
+## رسالة يجب توصيلها !!!
+أسمح لنفسي أن أكتب إليكم لجذب انتباهكم إلى وضع مقلق يتعلق بمستشفى الأورام في مزواريات وجدة، الذي أصفه بـ "مستشفى العار".
+أود أن أتحدث عن WB، شابة تبلغ من العمر 34 عامًا كانت تعاني من سرطان الثدي في مرحلة متقدمة. قضت عدة أسابيع في منزلها، تعاني من درجة حرارة مرتفعة، وآلام شديدة في البطن، وإسهال مستمر، في حالة من النسيان. على الرغم من أنها استشارت طبيبًا في هذا المستشفى، لم يتم تزويدها بأي وصفة طبية. قيل لها فقط إنه سيتم الاتصال بها، ولكن كما هو الحال غالبًا، تُركت تنزف وحدها.
+تم إدخالها إلى المستشفى قبل شهر من وفاتها، بعد العديد من الجهود، واضطر طبيب للضغط على قسم الأورام حتى يتم استقبالها أخيرًا!
+ظروف الانتظار في هذا المستشفى غير مقبولة. يمكن للمرضى قضاء يوم كامل جالسين على مقعد، دون تناول الطعام أو الشراب. والأسوأ من ذلك، يبدو أن موظفي الأمن والتنظيف يفضلون طلبات الأكثر دفعًا، وليس الطوارئ! أما موظفو الاستقبال، فهم متعجرفون لدرجة أن المرء يشعر أنه يزعجهم بعد سؤال بسيط.
+علاوة على ذلك، أصدر طبيبها المعالج، السيد H M، شهادة لم تحدد مدى خطورة حالتها. كانت هذه الشهادة غير كافية للسماح لشقيقتها بتكوين ملف لدى الضمان الاجتماعي لمحاولة إرسالها للعلاج في فرنسا. وقد اعترف هذا الطبيب نفسه بنقص الموارد واستحالة تقديم رعاية مناسبة.
+يا للعار! كيف يمكن ترك شخص يعاني لهذه الدرجة، دون مساعدة أو رعاية مناسبة؟
+## للمعلومات:
+لقد حاولت بالفعل الاتصال بوزير الصحة ومسؤولين آخرين؛ النتائج: لا رد!
+إذا لم يرغبوا في الرد على الأرض، فسيردون غدًا تحت الأرض!
+**أتمنا أن تصلهم هذه الرسالة!**
+أشكركم على انتباهكم وفهمكم.# الموضوع: مستشفى العار - حالة WB / توفيت يوم الأحد 19 يناير
+## رسالة يجب توصيلها !!!
+أسمح لنفسي أن أكتب إليكم لجذب انتباهكم إلى وضع مقلق يتعلق بمستشفى الأورام في مزواريات وجدة، الذي أصفه بـ "مستشفى العار".
+أود أن أتحدث عن WB، شابة تبلغ من العمر 34 عامًا كانت تعاني من سرطان الثدي في مرحلة متقدمة. قضت عدة أسابيع في منزلها، تعاني من درجة حرارة مرتفعة، وآلام شديدة في البطن، وإسهال مستمر، في حالة من النسيان. على الرغم من أنها استشارت طبيبًا في هذا المستشفى، لم يتم تزويدها بأي وصفة طبية. قيل لها فقط إنه سيتم الاتصال بها، ولكن كما هو الحال غالبًا، تُركت تنزف وحدها.
+تم إدخالها إلى المستشفى قبل شهر من وفاتها، بعد العديد من الجهود، واضطر طبيب للضغط على قسم الأورام حتى يتم استقبالها أخيرًا!
+ظروف الانتظار في هذا المستشفى غير مقبولة. يمكن للمرضى قضاء يوم كامل جالسين على مقعد، دون تناول الطعام أو الشراب. والأسوأ من ذلك، يبدو أن موظفي الأمن والتنظيف يفضلون طلبات الأكثر دفعًا، وليس الطوارئ! أما موظفو الاستقبال، فهم متعجرفون لدرجة أن المرء يشعر أنه يزعجهم بعد سؤال بسيط.
+علاوة على ذلك، أصدر طبيبها المعالج، السيد H M، شهادة لم تحدد مدى خطورة حالتها. كانت هذه الشهادة غير كافية للسماح لشقيقتها بتكوين ملف لدى الضمان الاجتماعي لمحاولة إرسالها للعلاج في فرنسا. وقد اعترف هذا الطبيب نفسه بنقص الموارد واستحالة تقديم رعاية مناسبة.
+يا للعار! كيف يمكن ترك شخص يعاني لهذه الدرجة، دون مساعدة أو رعاية مناسبة؟
+## للمعلومات:
+لقد حاولت بالفعل الاتصال بوزير الصحة ومسؤولين آخرين؛ النتائج: لا رد!
+إذا لم يرغبوا في الرد على الأرض، فسيردون غدًا تحت الأرض!
+**أتمنا أن تصلهم هذه الرسالة!**
+أشكركم على انتباهكم وفهمكم.
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Situation des hôpitaux publics, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: #exercice_illegal_de_la_médecine
+Language: French
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: Bonjour à tous les internauts
+Le VIH Sida ne se guérir pas avec comprimés de l'hôpital mais il ya un traitement définitivement de façons traditionnelle
+Je suis à Côte d'Ivoire précisément à Daloa
+J'ai vu beaucoup de gens raconter leurs expériences avec ce Docteur et ce sera un perché si je ne partage pas mon expérience avec d'autres personnes.
+Moi et mon mari étions séropositif et nous adorerons dire à tout le monde comment notre statut avons changé pour devenir négatif. Le virus du VIH est une maladie désespérée dont tout le monde conclut qu'il n'y a pas de remède. Et il y avait tellement de douleur, nous n'avions pas été en mesure de surmonter cela car il n'y a pas de remède médical à ce virus, et le médicament antirétroviral est pour une durée de vie. Beaucoup de gens m'ont parlé Ce Docteur Luc qui avait lu en ligne qu'il pouvait soigner plusieurs maladies et infections dont le VIH. Ils m'ont donné le lien de son groupe , Je lui ai écrit en privé sur WhatsApp et il m'a assuré que son médicament nous guérirait. Nous avions passé une commande pour son médicament et il nous a envoyé par les bus UTB livré ici à Daloa . Nous étions sur ce traitement pendant un mois mais je n'y croyais pas, je l'essayais juste par frustration et après la 3ème semaines, nous étions allé faire un check up, Et c'était incroyable que 4 résultats de test différents se lisent tous Hiv virus négatif. Je n'ai jamais cru que le VIH avait un remède. Nous sommes guéri, Negative to Hiv et nous sommes des témoins vivant. Nous ne savons pas comment apprécier ce docteur. Je veux juste aider les autres. Je rejoint de nombreux médias pour publier ces témoignages et je sais que beaucoup de gens trouveront cela utile. D'après notre expérience, il pourrait également guérir le VPH, les cancers, l'herpès, l'hépatite B, C et A, le diabète, la syphilis, la chlamydia et encore plus d'informations voici son lien WhatsApp
+👇👇👇👇👇👇👇
+https://wa.me/message/VYIFHHGONTJ3N1
+Language: French
+Polarity: positive
+Topics: Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: المجد للأمة العربية العظيمة من المشرق العربي إلى المغرب العربي
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: أسكاس امباركي
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: أسكاس اماينو
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: ♓☪️
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: سنة امازيغية سعيدة🎉
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: سلام عليكم. طبيبة مززرة مدلسة في مصحة خاصة بالحسيمة. نطالب السلطات العمومية بمدينة الحسيمة في صفة باشا المدينة بالقيام بإجراء قانوني في حق إحدى ممتهني الطب المدعوة باسم "وفاء" حيث انها لا تحمل صفة طبيب وترفض تقديم اسمها العائلي للباحثين عن
+العلاج ولا تتوفر علي صفة طبيبة ولا طابع المعروف بكاشي. وفي هذا الصدد؛ هذه السيدة تقوم بعمل ينافي القانون جملة وتفصيل وهذا يقع بمباركة مسؤولي هذه المصحة الخاصة بالحسيمة. 
+ويجدر الذكر ان هذه الطبيبة المزورة تعطي وصفات طبية في "كتيب" خاص بوزارة الصحة التي يتم بيعها في جنات المستشفيات العمومية وتقوم بكتابة الأدوية النفسيةوالعقلية بدون وضع خاتمتها الرسمي حيث انها لا تتوفر عليه في خطوة احترازية منها للتملص من المسؤولية .
+نطالب من سلطات مدينة الحسيمة بالتحرك الفوري لردع مثل هذا الأشكال من العشوائيات في مزاولة الطب. ويشار ان هذه السيدة تعتمد علي الغموض وترفض إعطاء اسمها الحقيقي ولا تتوفر علي صفة قانونية تخول لها مزاول هذه المهنة.
+وفي هذا الصدد سبق لاحد المرضي ان تعرض لازمة صحية خطيرة بعد ان تناول احد عقاقير وفاء والتي اجري بعده عملية في الرباط للاستشفاء.
+ومن هذا المنبر نطالب كذلك السلطات الصحية التابعة لوزارة الصحة باتخاذ الاجراءات المناسبة في حق هذه الطبيبة المنورة.
+وفي الاخير؛ بصفتي متضرر من هذا التلاعب الواضح بصحة المواطنين ساقوم بتقديم شكاية مباشرة ساسرد فيها كل مجريات الموضوع هذا الخطير قصد تقديمها للسيد المحترم الوالي بمقر ولاية الحسيمة واخري للوزارة الوصية في حالة عدم اتخاذ إجراءات فورية وعاجلة في حق هذه الطبيبة المزورة.
+،
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: لقاح الحصبة يعطى للأطفال في جرعتين: الجرعة الأولى في الشهر التاسع والجرعة الثانية في الشهر الثامن عشر.
+Language: Arabic
+Polarity: neutral
+Topics: Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: شكرا على معلومة
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: جميع اللقاحات متوفرة في المراكز الصحية
+Language: Arabic
+Polarity: positive
+Topics: Accès aux soins et aux médicaments
+Source File: msps.gov.ma.txt
+---
+Text: تحية حاول تصلح الفساد السابق
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: ولماذا الالغاء كان من الممكن وقف تنفيذها إلى غاية التحقق من جدواها وفعاليتها
+Language: Arabic
+Polarity: negative
+Topics: Impact des politiques gouvernementales sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: ولماذا الالغاء كان من الممكن وقف تنفيذها إلى غاية التحقق من جدواها وفعاليتها
+Language: Arabic
+Polarity: negative
+Topics: Impact des politiques gouvernementales sur la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: هل لديك خبر بوفات سيدة حامل رفقة جنينها بمستشفى الحسن الثاني بالداخلة ؟ فهي أمانة كذلك ربما أكبر من أمانة المال أيها الوزير !!!!!
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Problèmes liés à la santé publique, Accès aux soins et aux médicaments
+Source File: msps.gov.ma.txt
+---
+Text: والعداو والتصفاق لاش أعباد الله
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: تحية لك و واصل مجهوداتك و تقدمك 👍💪
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: هذا هو المعقول
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: لا علاقة له بالصحة ولا مشتقاتها
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: السيد الوزير المحترم يجيب شي زيارة لمدينة خنيفرة قصد مراقبة المستشفى الاقليمي راه سكان الاقليم يعانون في صمت
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Accès aux soins et aux médicaments, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: وقل اعملوا فسير الله عمالكم
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اللهم بارك واصل تقدمك هذا هو الحل اعانك الله ووفقك👍
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اللهم يبارك بالتوفيق
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اين الافعال
+قتلتونا بالشفوي
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: كيف تثمين الاطر الصحية و عدد منهم يعملون في صلب البرامج الصحية وينشطون هاته البرامج ، استثنوا من الاستفادة من التعويضات الخاصة بالبرامج الصحية والخدمات المتنقلة....مثال على ذلك بإقليم تاونات ؟!
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: يجب الالتفاف الى حرمان الأطباء خريجي المدرسة الوطنية للصحة العمومية عن تخصص الصحة العمومية منذ فوجين بينما أكدتم على قانونية حقهم ف ذلك التعويض في معرض إجابتكم عن سؤال إحدى المستشارات.
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: ياسلام،صراحة لقد زالت الغمة.
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: الله اجازيه بالخير السيد الوزير المحترم، لن يهنأ له بال حتى حلحلة كل المشاكل العالقة، اصبروا ان الله مع الصابرين
+Language: Arabic
+Polarity: positive
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: لم نرى شيئا أسيد الوزير المحترم...الاتفاق مزال مجمدا.
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: العديد من الممرضين ينتظرون تسوية ترقياتهم في الرتب لسنوات طويلة ،اللهم إن هذا لمنكر
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: عن اي مأسسة تتكلمون سيدي الوزير؟؟؟
+اتفاق ثاني بعد الاتفاق الاول منذ يناير لازلنا نستغرب عن تعامل الحكومة مع موظفي وزارة الصحة عموما و الممرضين خاصة!!!
+سنة كاملة من الانتظار و أحداث لجن و لجينيات غريب جوابكم بقبة البرلمان أمام المواطنين
+نحن من وضعنا ثقتنا فيكم
+وهكذا تعامل الشريحة التي تواجه الأمراض و الأوبئة؟
+عيب
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Conditions de travail des professionnels de santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: # الموضوع: مستشفى العار - حالة WB / توفيت يوم الأحد 19 يناير
+## رسالة يجب توصيلها !!!
+أسمح لنفسي أن أكتب إليكم لجذب انتباهكم إلى وضع مقلق يتعلق بمستشفى الأورام في مزواريات وجدة، الذي أصفه بـ "مستشفى العار".
+أود أن أتحدث عن WB، شابة تبلغ من العمر 34 عامًا كانت تعاني من سرطان الثدي في مرحلة متقدمة. قضت عدة أسابيع في منزلها، تعاني من درجة حرارة مرتفعة، وآلام شديدة في البطن، وإسهال مستمر، في حالة من النسيان. على الرغم من أنها استشارت طبيبًا في هذا المستشفى، لم يتم تزويدها بأي وصفة طبية. قيل لها فقط إنه سيتم الاتصال بها، ولكن كما هو الحال غالبًا، تُركت تنزف وحدها.
+تم إدخالها إلى المستشفى قبل شهر من وفاتها، بعد العديد من الجهود، واضطر طبيب للضغط على قسم الأورام حتى يتم استقبالها أخيرًا!
+ظروف الانتظار في هذا المستشفى غير مقبولة. يمكن للمرضى قضاء يوم كامل جالسين على مقعد، دون تناول الطعام أو الشراب. والأسوأ من ذلك، يبدو أن موظفي الأمن والتنظيف يفضلون طلبات الأكثر دفعًا، وليس الطوارئ! أما موظفو الاستقبال، فهم متعجرفون لدرجة أن المرء يشعر أنه يزعجهم بعد سؤال بسيط.
+علاوة على ذلك، أصدر طبيبها المعالج، السيد H M، شهادة لم تحدد مدى خطورة حالتها. كانت هذه الشهادة غير كافية للسماح لشقيقتها بتكوين ملف لدى الضمان الاجتماعي لمحاولة إرسالها للعلاج في فرنسا. وقد اعترف هذا الطبيب نفسه بنقص الموارد واستحالة تقديم رعاية مناسبة.
+يا للعار! كيف يمكن ترك شخص يعاني لهذه الدرجة، دون مساعدة أو رعاية مناسبة؟
+## للمعلومات:
+لقد حاولت بالفعل الاتصال بوزير الصحة ومسؤولين آخرين؛ النتائج: لا رد!
+إذا لم يرغبوا في الرد على الأرض، فسيردون غدًا تحت الأرض!
+**أتمنا أن تصلهم هذه الرسالة!**
+أشكركم على انتباهكم وفهمكم.
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Situation des hôpitaux publics, Manque de ressources dans le secteur de la santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: إنشاء في التعبير الشفوي
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: ياعيني
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: تماطل الوزارة و الحكومة و محاولة الالتفاف على اتفاق 23 يوليوز يعيق كل محاولات الاصلاح بل يفقد اي ثقة في المؤسسات و الحكومة
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: من كتب لكم هذا الموضوع المقالي؟
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: من كتب لكم هذا الموضوع المقالي؟
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: ⛔️كلام للإستهلاك و الإلهاء.
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: لاحول ولاقوة الابالله الله وكأننا نطالب بحقوق جديدة نحن موظفين بجميع مكتسبات الوظيفة العمومية كيف يعقل بين عشية وضحاها تسلبون هدا الحق عن أي إصلاح تتحدثون وأي تتمين للموارد البشرية هدا....الوزير السابق قام بحوارات مع النقابات الصحية قل نظيرها على حدي تعبيره والنتيجة صفر وتلفظ بمغالطات كتيرة عن الوظيفة الصحية والأن الوزير الجديد يتكلم عن تتمين الموارد البشرية وهو ليس قادرا حتى على إعطاء شرح مبسط وإجابة بدون ورقة للأسف مايحدث في القطاع هي نتيجة تراكمات سياسات صحية لأشخاص هم بعيدين كل البعد عن الخطة الهادفة بقدر ماهي خطط فاشلة.
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: 978 اجتماع و حوار النتيجة 0 حوار من أجل الحوار من أجل لا شيء
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: سنة الانقلاب على الحقوق و المكتسبات، كاتب النص و ازلامه لن يتركوا بدا للقضاء على العمل النقابي و كل صوت يمكن يوما ان يعبر عن "رفض" تراكم الفشل .
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: نسال الله اللطف من شرار الخلق وكذبهم فلم يعد هناك لا امن ولا امان مع حكومة قارون المغرب
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: كيف تثمين الاطر الصحية و عدد منهم يعملون في صلب البرامج الصحية وينشطون هاته البرامج ، استثنوا من الاستفادة من التعويضات الخاصة بالبرامج الصحية والخدمات المتنقلة....مثال على ذلك بإقليم تاونات ؟!
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: لا حول و لا قوة الا بالله ،،جعجعة وأرى طحنا،،،الاتفاق مشلول بإرادتكم،،لمادا الخطاب السياسي في واد ،،والتطبيق في واد اخر!!!!
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: عن اي مأسسة تتكلمون سيدي الوزير؟؟؟
+اتفاق ثاني بعد الاتفاق الاول منذ يناير لازلنا نستغرب عن تعامل الحكومة مع موظفي وزارة الصحة عموما و الممرضين خاصة!!!
+سنة كاملة من الانتظار و أحداث لجن و لجينيات غريب جوابكم بقبة البرلمان أمام المواطنين
+نحن من وضعنا ثقتنا فيكم
+وهكذا تعامل الشريحة التي تواجه الأمراض و الأوبئة؟
+عيب
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: لاحول ولاقوة الابالله. بحال غدا اجيبو تباعمرانت من أجل تقييم مجهودات موظفي قطاع الصحة.
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: أين وصل ملف الزيادة في إيرادات حوادث الشغل والامراض المهنية وذويهم من اليتامى والارامل وإصدار مراسيم الزيادة
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Couverture sociale et santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: ألشعارات شيء والواقع شيء ٱخر
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اربي ربي
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: ربي ربي!! شتان بين الواقع وبين هذا النص الأدبي
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: نزل الاتفاق الى قمامة مكتبكم
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اذا كان ممكن قولو يتكلم بلا ورقة
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: سيدي الوزير لم ينفذ من الاتفاق شيء لحدود هاته اللحظة .
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: لا حول ولا قوة إلا بالله إذا أسندَ الأمْرُ إلى غير أهله, فانتظر السَّاعة
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: أضبط النص بالشكل التام..
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: الكلام شيئ و الواقع شيئ ٱخر
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: لاحول ولاقوة الا بالله
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق انشاء الله
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: مقدمة وعرض وخاتمه هههههههعع
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: نص انشائي
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: كوكب خوووور 🤣
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: نص انشائي
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: حافظ أو مفاهمش
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: Pfffffff
+Language: French
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: ساكتفي بقول طز
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: السيد الوزير لقد نزل الاتفاق إلى القبر.
+شكرا لكم.
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Impact des politiques gouvernementales sur la santé
+Source File: msps.gov.ma.txt
+---
+Text: جواب انشائي لوزير لا يفقه شيئا في القطاع أنا لله اودي أحماد
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: Ghayzidu le corps administratif 200dh
+Language: French
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Augmentation des salaires des fonctionnaires
+Source File: msps.gov.ma.txt
+---
+Text: الصحة في المغرب لا تساوي شيء .
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: وزير المكياج
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق والنجاح في هذه المهنة الشريفة وتكون فيها اياذي شريفة ورحيمة لشعب المغربي كافة وتكون صاهرين على خذمة الوطن والمواطنين في هذه القطع الصحة وضع نفسك مكانة المريض كما تنهض من النوم وتنضر للمراة وتشاهد نفسك درس لكل الدكاترة ملزمين بالقسم المهني الشريف وشكرا بشعار الله. الوطن. الملك حفظه الله كما حفظ الله الذكر الحكيم
+Language: Arabic
+Polarity: positive
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: الادارة الجيدة لسكري الطفل دون ألم حقٌّ، لا امتياز.
+في ظل التوجيهات الملكية السامية والرشيدة الرامية إلى توفير العيش الكريم لعموم المغاربة ، والى تنويع وتوسيع آليات الدعم الموجهة للفئات الهشة ، نتساءل عن حق الاطفال السكريين ببلادنا في هذا الورش الاصلاحي الكبير .
+نتساءل عن نصيبهم من الحماية من آلام وخز اصابعهم عدة مرات يوميا من اجل اخذ قياسات السكري بشكل موجع بدنياً ومرهق نفسياً ومادياً .
+نتساءل عن حظهم في الاهتمام بتخفيف العبء عنهم وعن اسرهم بتوفير جهاز القياس دون وخز وادراجه ضمن المستلزمات المعوض عنها في صناديق التغطية الصحية .
+داء السكري مُدرج ضمن قائمة الأمراض المزمنة التي يخوَّل للمؤمَّن الإعفاء الجزئي أو الكلي من مصاريف علاجها، فلماذا لا يتم التعويض عن جهاز الفري ستايل ليبر ؟؟؟
+اطفال السكري يتألمون دون ان يسمع احد انينهم ..
+نرجو من وزارة الصحة والحماية الاجتماعية التدخل لتوفير جهاز فري ستايل لقياس نسبة السكر في الدم بدون وخز وبدون ألم ..
+#وزارة #الصحة #والحماية #الاجتماعية #ارحموا #الاطفال #السكريين #بتوفير #فري #ستايل #ليبر
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Prix des médicaments et des soins, Couverture sociale et santé, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé, Projet royal de protection sociale
+Source File: msps.gov.ma.txt
+---
+Text: وماذا عن الاضرابات المتتالية في القطاع و المواعيد المؤجلة التي من شأنها عرقلة تتبع الوضع الصحي للمريض
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Accès aux soins et aux médicaments, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: وماذا عن الاضرابات ؟
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: وماذا عن ادوية مرض السل اول مرة في تاريخ وزارة الصحة انعدام انقطاع تزويد المواطن بالدواء وهذا طبعا عنده عواقب وخيمة
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Problèmes liés à la santé publique, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: https://www.facebook.com/reel/1746851832802900/ معانات الشعب في مستشفيات المماطلة و الرشوة و التسيب و غياب المراقبة تحرك يا السيد الوزير و قم بزيارات مفاجئة للمستشفيات و الوقوف على الخلل و تغيير المنكر
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+FACEBOOK
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Rôle du gouvernement dans le secteur de la santé, Accès aux soins et aux médicaments
+Source File: msps.gov.ma.txt
+---
+Text: وماذا عن الأدوية المفقودة في الصيدليات لعدة شهور؟ باراكا من الشعارات والتمتيل .
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: ولا زالت الشفيلة الصحية وممثليها الشرعيين التنسبق النقابي لا زالوا ينتظرون تفاعل الوزارة والوزير على مراسلة النقابات والتفاعل مع البيان الاخير
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: رجل ليس من اهل الصحة
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: من المسؤول عن إغلاق المركز الصحي بدار سلام مراكش لأكثر من اسبوع
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Accès aux soins et aux médicaments, Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: ماشاءالله
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: وزير مستحضرات التجميل
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: # الموضوع: مستشفى العار - حالة WB / توفيت يوم الأحد 19 يناير
+## رسالة يجب توصيلها !!!
+أسمح لنفسي أن أكتب إليكم لجذب انتباهكم إلى وضع مقلق يتعلق بمستشفى الأورام في مزواريات وجدة، الذي أصفه بـ "مستشفى العار".
+أود أن أتحدث عن WB، شابة تبلغ من العمر 34 عامًا كانت تعاني من سرطان الثدي في مرحلة متقدمة. قضت عدة أسابيع في منزلها، تعاني من درجة حرارة مرتفعة، وآلام شديدة في البطن، وإسهال مستمر، في حالة من النسيان. على الرغم من أنها استشارت طبيبًا في هذا المستشفى، لم يتم تزويدها بأي وصفة طبية. قيل لها فقط إنه سيتم الاتصال بها، ولكن كما هو الحال غالبًا، تُركت تنزف وحدها.
+تم إدخالها إلى المستشفى قبل شهر من وفاتها، بعد العديد من الجهود، واضطر طبيب للضغط على قسم الأورام حتى يتم استقبالها أخيرًا!
+ظروف الانتظار في هذا المستشفى غير مقبولة. يمكن للمرضى قضاء يوم كامل جالسين على مقعد، دون تناول الطعام أو الشراب. والأسوأ من ذلك، يبدو أن موظفي الأمن والتنظيف يفضلون طلبات الأكثر دفعًا، وليس الطوارئ! أما موظفو الاستقبال، فهم متعجرفون لدرجة أن المرء يشعر أنه يزعجهم بعد سؤال بسيط.
+علاوة على ذلك، أصدر طبيبها المعالج، السيد H M، شهادة لم تحدد مدى خطورة حالتها. كانت هذه الشهادة غير كافية للسماح لشقيقتها بتكوين ملف لدى الضمان الاجتماعي لمحاولة إرسالها للعلاج في فرنسا. وقد اعترف هذا الطبيب نفسه بنقص الموارد واستحالة تقديم رعاية مناسبة.
+يا للعار! كيف يمكن ترك شخص يعاني لهذه الدرجة، دون مساعدة أو رعاية مناسبة؟
+## للمعلومات:
+لقد حاولت بالفعل الاتصال بوزير الصحة ومسؤولين آخرين؛ النتائج: لا رد!
+إذا لم يرغبوا في الرد على الأرض، فسيردون غدًا تحت الأرض!
+**أتمنا أن تصلهم هذه الرسالة!**
+أشكركم على انتباهكم وفهمكم.# الموضوع: مستشفى العار - حالة WB / توفيت يوم الأحد 19 يناير
+## رسالة يجب توصيلها !!!
+أسمح لنفسي أن أكتب إليكم لجذب انتباهكم إلى وضع مقلق يتعلق بمستشفى الأورام في مزواريات وجدة، الذي أصفه بـ "مستشفى العار".
+أود أن أتحدث عن WB، شابة تبلغ من العمر 34 عامًا كانت تعاني من سرطان الثدي في مرحلة متقدمة. قضت عدة أسابيع في منزلها، تعاني من درجة حرارة مرتفعة، وآلام شديدة في البطن، وإسهال مستمر، في حالة من النسيان. على الرغم من أنها استشارت طبيبًا في هذا المستشفى، لم يتم تزويدها بأي وصفة طبية. قيل لها فقط إنه سيتم الاتصال بها، ولكن كما هو الحال غالبًا، تُركت تنزف وحدها.
+تم إدخالها إلى المستشفى قبل شهر من وفاتها، بعد العديد من الجهود، واضطر طبيب للضغط على قسم الأورام حتى يتم استقبالها أخيرًا!
+ظروف الانتظار في هذا المستشفى غير مقبولة. يمكن للمرضى قضاء يوم كامل جالسين على مقعد، دون تناول الطعام أو الشراب. والأسوأ من ذلك، يبدو أن موظفي الأمن والتنظيف يفضلون طلبات الأكثر دفعًا، وليس الطوارئ! أما موظفو الاستقبال، فهم متعجرفون لدرجة أن المرء يشعر أنه يزعجهم بعد سؤال بسيط.
+علاوة على ذلك، أصدر طبيبها المعالج، السيد H M، شهادة لم تحدد مدى خطورة حالتها. كانت هذه الشهادة غير كافية للسماح لشقيقتها بتكوين ملف لدى الضمان الاجتماعي لمحاولة إرسالها للعلاج في فرنسا. وقد اعترف هذا الطبيب نفسه بنقص الموارد واستحالة تقديم رعاية مناسبة.
+يا للعار! كيف يمكن ترك شخص يعاني لهذه الدرجة، دون مساعدة أو رعاية مناسبة؟
+## للمعلومات:
+لقد حاولت بالفعل الاتصال بوزير الصحة ومسؤولين آخرين؛ النتائج: لا رد!
+إذا لم يرغبوا في الرد على الأرض، فسيردون غدًا تحت الأرض!
+**أتمنا أن تصلهم هذه الرسالة!**
+أشكركم على انتباهكم وفهمكم.
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Situation des hôpitaux publics, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: لماذا الدول تستثمر في العلاج ولا تستثمر في الوقاية ...هذا السؤال دائما يثير انتباهي وارى هذا التهافت حول العلاج امر عجيب .. لماذا هذه الاموال لم تستثمر في الوقاية ...ام انه هناك امر مخفي ...كما قال القدماء ان الاطباء هو من يقتلون المرضى ..وان المريض هو من صنع الطبيب ..الطبيب هنااا صانع المواد الغدائية حول العالم ..
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Accès aux soins et aux médicaments
+Source File: msps.gov.ma.txt
+---
+Text: القطاع على صفيح ساخن..المطلوب حوار جدي وتجاوب فعلي مع مطالب الاطر الصحية..
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: التقارير شيء و الواقع شيء آخر
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: https://www.facebook.com/reel/1746851832802900/ معانات الشعب في مستشفيات المماطلة و الرشوة و التسيب و غياب المراقبة تحرك يا السيد الوزير و قم بزيارات مفاجئة للمستشفيات و الوقوف على الخلل و تغيير المنكر
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+FACEBOOK
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Accès aux soins et aux médicaments, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: باراكا من الشعارات وفروا الأدوية للمرضى
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: ماشاءالله فعل
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: سبحان الله اوا الحمد لله على العدالة الربانية ،لي ما خدا حقو فالدنيا ياخدو فالآخرة
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: منظومة الصحة بالمغرب تعاني
+التحقيق والتفتيش يجب ان يشمل جميع المرافق الصحية
+كيف يعقل ان مستشفى ما فيهش ليريم وطبيب اختصاصي غير موجود خلي نمرتك حتى يكون ونعيطو ليك وطول المواعيد ...
+(لالا عيشة بتمارة) هذا مستشفى على بعد امتار من المصالح المركزية فما بالك بالهوامش؟؟؟
+لا حول ولا قوة إلا بالله
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: هناك خطأ تقني كذالك في البلاغ ههههههههه المرجو المراجعة قبل النشر
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: السبب الرئيسي في الوفيات هو الاهمال الطبي واللابلات في العمل لان المسؤول الوصي لا يبالي بما يجول حوله
+Language: Arabic
+Polarity: negative
+Topics: Conditions de travail des professionnels de santé, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: اللهم ارحمنا و ارحم من علمنا و ارحم موتانا و أصلح أحيائنا و ارحم بفضلك جميع المسلمين و المسلمات يا أرحم الراحمين يا رب العالمين
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: هل فعلا كان هناك انقطاع كهربائي أم لا ؟
+Language: Arabic
+Polarity: neutral
+Topics: Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: عند الله تجتمع الخصوم
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: فقدنا الثقة فجميع الوزارات و شكرا .
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: و عند الله تلتقي الخصوم .
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: مونديال 2030
+Language: French
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: على إثر خبر وفاة أربعة (4) أشخاص بالمركز الاستشفائي مولاي يوسف بالرباط، تزامنا مع العطب التقني الذي أصاب قنوات الإمداد بالأوكسجين، أوفدت وزارة الصحة والحماية الاجتماعية على وجه السرعة إلى المركز الاستشفائي لجنة من المفتشية العامة للوزارة قصد التحقيق في ظروف وملابسات هذه الوفيات.
+وكشف تقرير اللجنة، التي ضمت مسؤولين بالإدارة المركزية وأطباء متخصصين في الإنعاش والتخدير‎ ‎وتقنيين ‏متخصصين في صيانة التجهيزات والمعدات، أن أسباب الوفيات لا صلة لها بالعطب التقني الذي أصاب قنوات الإمداد بالأوكسجين، بل بسبب مضاعفات مرضهم. حيث خلص التقرير إلى ما يلي :
+قسم الإنعاش بالمركز الاستشفائي مولاي يوسف بالرباط، شهد وقوع عطب تقني مفاجئ مرتبط بقنوات الإمداد بالأوكسجين وقع على الساعة العاشرة وأربعين دقيقة(11h35min) من يوم الثلاثاء 10 دجنبر2024، وليس بعدم توفر الأكسجين أو بحدوث انقطاع في التيار الكهربائي بالمركز الاستشفائي، كما تم الترويج له. وبعد مرور حوالي40 دقيقة عادت قنوات الإمداد بالأوكسجين للاشتغال بشكل عادي؛
+على الرغم من العطب المفاجئ، تواصل إمداد كافة المرضى المتواجدين بالقسم المعني بالأوكسجين عبر الاستعانة بالقارورات المتنقلة للأوكسجين، مما ضمن استمرارية العلاج لكافة المرضى؛
+خلافا لما تم تداوله، سُجِّلَت حالتي وفاة (2 ) يوم الثلاثاء 10 دجنبر 2024، الأولى بعد مرور ساعتين و نصف بعد حدوث العطب، أما حالة الوفاة الثانية فقد وقعت بعد مرور أزيد من أربع ساعات، حيث أكد التقرير أنه لا صلة لوفاتهم بالعطب التقني المذكور، وأن الوفاة ترجع إلى مضاعفات مرضهم التي كانت سببا في استقبالهم بقسم الإنعاش لما يزيد عن 14 و 4 يوما.
+وإذ تعزي وزارة الصحة والحماية الاجتماعية أسر المتوفين تغمدهم الله برحمته، فإنها تجدد حرصها والتزامها بتوفير خدمات صحية وعلاجية نوعية وذات جودة للمواطنين، وإبلاغ الرأي العام بأي مستجد في الموضوع.
+Language: Arabic
+Polarity: negative
+Topics: Gestion des crises sanitaires, Situation des hôpitaux publics, Accès aux soins et aux médicaments, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: نفس التبرير لضحايا مستشفى بني ملال المضاعفات الصحية هي سبب الوفاة وليس العطب التقني
+Language: Arabic
+Polarity: negative
+Topics: Gestion des crises sanitaires, Situation des hôpitaux publics, Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: امام الله تلتقي الخصوم
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اذا كانت لجنة التحقيق تابعة للوزارة فلا داعي التحدث عن تحقيق ايا كانت نتيجته
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: ما هو السبب في نطاق التوضيح و شكرا
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: لاحول ولاقوة إلا بالله.
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: المخطئ لن يقول أنني مخطئ في مثل هذه الأمور يجري التحقيق لجنة مستقلة
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: مع الأسف منظومة الصحة في المغرب ينقصها الكثير إن لم نقل ينقصها كل شيء
+Language: Arabic
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: مع الأسف منظومة الصحة في المغرب ينقصها الكثير إن لم نقل ينقصها كل شيء
+Language: Arabic
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Réforme du système de santé
+Source File: msps.gov.ma.txt
+---
+Text: الإمتحانات المهنية يوم الأحد، هل وزارة Ministère de la Santé et de la Protection Sociale du Maroc ستمنع إدخال الهاتف 📱 إلى قاعة الإمتحانات ام أن لجان المراقبة متورطة في استفحال ظاهرة الغش في الإمتحانات المهنية؟؟؟
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: # الموضوع: مستشفى العار - حالة WB / توفيت يوم الأحد 19 يناير
+## رسالة يجب توصيلها !!!
+أسمح لنفسي أن أكتب إليكم لجذب انتباهكم إلى وضع مقلق يتعلق بمستشفى الأورام في مزواريات وجدة، الذي أصفه بـ "مستشفى العار".
+أود أن أتحدث عن WB، شابة تبلغ من العمر 34 عامًا كانت تعاني من سرطان الثدي في مرحلة متقدمة. قضت عدة أسابيع في منزلها، تعاني من درجة حرارة مرتفعة، وآلام شديدة في البطن، وإسهال مستمر، في حالة من النسيان. على الرغم من أنها استشارت طبيبًا في هذا المستشفى، لم يتم تزويدها بأي وصفة طبية. قيل لها فقط إنه سيتم الاتصال بها، ولكن كما هو الحال غالبًا، تُركت تنزف وحدها.
+تم إدخالها إلى المستشفى قبل شهر من وفاتها، بعد العديد من الجهود، واضطر طبيب للضغط على قسم الأورام حتى يتم استقبالها أخيرًا!
+ظروف الانتظار في هذا المستشفى غير مقبولة. يمكن للمرضى قضاء يوم كامل جالسين على مقعد، دون تناول الطعام أو الشراب. والأسوأ من ذلك، يبدو أن موظفي الأمن والتنظيف يفضلون طلبات الأكثر دفعًا، وليس الطوارئ! أما موظفو الاستقبال، فهم متعجرفون لدرجة أن المرء يشعر أنه يزعجهم بعد سؤال بسيط.
+علاوة على ذلك، أصدر طبيبها المعالج، السيد H M، شهادة لم تحدد مدى خطورة حالتها. كانت هذه الشهادة غير كافية للسماح لشقيقتها بتكوين ملف لدى الضمان الاجتماعي لمحاولة إرسالها للعلاج في فرنسا. وقد اعترف هذا الطبيب نفسه بنقص الموارد واستحالة تقديم رعاية مناسبة.
+يا للعار! كيف يمكن ترك شخص يعاني لهذه الدرجة، دون مساعدة أو رعاية مناسبة؟
+## للمعلومات:
+لقد حاولت بالفعل الاتصال بوزير الصحة ومسؤولين آخرين؛ النتائج: لا رد!
+إذا لم يرغبوا في الرد على الأرض، فسيردون غدًا تحت الأرض!
+**أتمنا أن تصلهم هذه الرسالة!**
+أشكركم على انتباهكم وفهمكم.
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Situation des hôpitaux publics, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق النجاح والكل حترام وتقدير
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: "نقدم لكم طلبًا عاجلاً لإجلاء السجين محمد خيري، الموجود في سجن عكاشة عين السبع، لإجراء العلاج الطبي اللازم، نظرًا لحالته الصحية الحرجة الناتجة عن إصابته بالرصاص
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments
+Source File: msps.gov.ma.txt
+---
+Text: بالتوفيق والنجاح ان شاء الله.
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: تصاور فقط
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: Felicitations et bonne continuation
+Language: French
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: السلام عليكم ورحمة الله وبركاته
+عافاكم فوقاش أيظهرو نتاءج ifps الله يسهل عليكم
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: على الوزير أن يقوم بزيارة للمستشفيات المتواجدة في الجماعات مثل جماعة بئر طم طم لاتتوفر لا أجهزة و لا أدوية و لا معدات طبية
+Language: Arabic
+Polarity: negative
+Topics: Manque de ressources dans le secteur de la santé, Accès aux soins et aux médicaments, Situation des hôpitaux publics, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: الصور جميلة لكن الواقع الموعد بعد سنة أي بعد فوات الأوان
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: C professeur akodad???il a tellement vieiilit
+Language: French
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: تبارك الله عليك مزيدا من التقدم والازدهار
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: https://www.facebook.com/reel/1746851832802900/ معانات الشعب في مستشفيات المماطلة و الرشوة و التسيب و غياب المراقبة تحرك يا السيد الوزير و قم بزيارات مفاجئة للمستشفيات و الوقوف على الخلل و تغيير المنكر
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+FACEBOOK
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+حراس الأمن الخاص يفعلون ما يشاؤون بمستعجلات ابن رشد.بالبيضاء
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Accès aux soins et aux médicaments, Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: مسيرة موفقة
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: نقدم لكم طلبًا عاجلاً لإجلاء السجين محمد خيري، الموجود في سجن عكاشة عين السبع، لإجراء العلاج الطبي اللازم، نظرًا لحالته الصحية الحرجة الناتجة عن إصابته بالرصاص
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: على السيد الوزير ان يقوم بزيارات مفاجئة لمستشفيات المنطقة الشرقية ليعاين الماساة التي يعيشها المواطن داخل وخارج المستشفيات .
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Accès aux soins et aux médicaments, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: Annexe des cliniques avoisinantes
+Language: French
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: اكيد انه متميز جدا على مستوى الجهة. اما وطنيا فهو لا يقارن بباقي المستشفيات الجامعية... لا يرقى إلى مستوى مستشفى اقليمي في جهات المغرب المستفيذ
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: ماشاءالله
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: موحد
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: ماشاءالله
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: موحد
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: برنامج الوزارة
+Language: Arabic
+Polarity: neutral
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: الله ياخد فيكم الحق
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: حسبنا الله ونعم الوكيل
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: Lahawla wala 9owata Ila billah
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: تحية للفريق
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: التباعد الاجتماعي وغسل اليدين و التعقيم وضع الكمامة في الاماكن المزدحمة باش نقضيو على المرض
+Language: Arabic
+Polarity: positive
+Topics: Gestion des crises sanitaires, Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: من فضلكم
+عنوان مركز التلقيح
+مدينة إبن اجرير
+Language: Arabic
+Polarity: neutral
+Topics: Accès aux soins et aux médicaments
+Source File: msps.gov.ma.txt
+---
+Text: لاحول ولاقوة الا بالله
+Language: Arabic
+Polarity: neutral
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: السلام عليكم ورحمه الله اذ تقولون لازم اعاده النظر لازم اعاده النظر في هذه الاقليم اقليم أسا الذي يعانين انهماش ويعان من الادويه ويعانون كثير هناك من الناس الذي جيوبهم فيه كثيرا من اموال ويسرقون الدواء لماذا اهميه اطلاع على النظر لازم تكون في هذه المنطقة اللي هي منطقه أسا الذين ناضلت وكافحت من اجل شعبها لازم اطلاع النظر هناك مستوصف يعانين من الادويه ويعانون من الادويه واللقاح🇲🇦🇲🇦🇲🇦🇲🇦
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: السلام عليكم اخواني اكتشفت اني عندي ضمور عضلات الحمد لله علا كل حال
+لي يقدر يفيدني بشي معلومة تفدني الله يرحم الوليدين
+Language: Arabic
+Polarity: mixed
+Topics: Accès aux soins et aux médicaments, Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: فعلا نحن نحتاج للرعاية ماشي محتاجين هديم المراكز الصحية و هي سليمة محتاجة فقط كل عام غير الصيانة بالجيىر وبلاط الاسقف و إذا حصل شي مشكل في دورة المياه او الكهرباء اوالبيبان او النوافذ وغيرها يتم التدخل للاصلاح
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: هدم المراكز الصحية هو هدر للاموال واعتداء على الذاكرة و تبخيس للمنجزات و تلوت للبيئة
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Manque de ressources dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: السلام عليكم ورحمه الله اذ تقولون لازم اعاده النظر لازم اعاده النظر في هذه الاقليم اقليم أسا الذي يعانين انهماش ويعان من الادويه ويعانون كثير هناك من الناس الذي جيوبهم فيه كثيرا من اموال ويسرقون الدواء لماذا اهميه اطلاع على النظر لازم تكون في هذه المنطقة اللي هي منطقه أسا الذين ناضلت وكافحت من اجل شعبها لازم اطلاع النظر هناك مستوصف يعانين من الادويه ويعانون من الادويه واللقاح🇲🇦🇲🇦🇲🇦🇲🇦
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Manque de ressources dans le secteur de la santé, Situation des hôpitaux publics
+Source File: msps.gov.ma.txt
+---
+Text: خص الوزارة تدخل كيف يعقل للمسؤولين يسمحو تكون في البلاد مدارس خاصة للابتداءى بدون ساحة مفتوحة بل مجرد اقسام داخل فضاء مغلق و بدون حديقة و لا اشجار هذه جريمة في حق الاطفال يهذذ الصحة العامة و التوازن النفسي الكل يعلم دور الساحة الكبيرة في بناء شخصية الطفل كما أن المدرسة ليس فقط اقسام للدراسة بل أيضا متنغس
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Santé mentale
+Source File: msps.gov.ma.txt
+---
+Text: لازم تحط الوزارة القوانين الصحية الازمة عند إنشاء المدارس و تكون ملزمة للكل القطاع العام و الخاص ابتداءا من الزامية وجود ساحة مفتوحة و كبيرة الى الزامية وجود حديقة الى الزامية ترك مساحات على طبيعتها الاصلية و هو ما يسمى بالاحراش
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique, Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: انشاء مدارس بدون محيط بيئي جريمة في حق الطفولة كيف يتم إعطاء الرخصة لمدارس الابتدا ءي وهي لا تتوفر لا على ساحة مفتوحة ولا على حديقة ولعلى ا اشجار بل هي فقط شقة بها اقسام
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: السلام عليكم المرجو اتخاد الاجراءات اللزمة لوجبات أكل المرضى بمستشفى ابن سينا الرباط وجبة الفطور (كأس قهوة بالحليب ونصف خبز فرنسي ) المرجو التدخل العاجل لرفع هذه المهزلة
+Language: Arabic
+Polarity: negative
+Topics: Situation des hôpitaux publics, Accès aux soins et aux médicaments
+Source File: msps.gov.ma.txt
+---
+Text: كنت اتمنى تواجد احد ابناء الضعفاء وبالاحرى احد ابناء ضحايا حوادث الشغل والامراض المهنية لطرح سؤال حول ايرادهم العمري المتوقف ولمدة عشرة سنوات السيد وزير الصحة؟؟؟
+Language: Arabic
+Polarity: negative
+Topics: Accès aux soins et aux médicaments, Rôle du gouvernement dans le secteur de la santé, Problèmes liés à la santé publique, Conditions de travail des professionnels de santé
+Source File: msps.gov.ma.txt
+---
+Text: الدراسة في مكان مغلق بالكامل يعني شقة هو جريمة في حق الطفولة يستوجب معاقبة المسؤولين لسمحو تكون عندنا هذا النوع من المدارس
+Language: Arabic
+Polarity: negative
+Topics: Problèmes liés à la santé publique
+Source File: msps.gov.ma.txt
+---
+Text: بغينا برلمان آباء وأمهات المغرب
+Language: Arabic
+Polarity: positive
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+Text: التباعد الاجتماعي وغسل اليدين وترك مسافة الامان و استعمال الكمامة في الاماكن المغلقة باش نحميو بلادنا و الوطن ديالنا
+Language: Arabic
+Polarity: positive
+Topics: Gestion des crises sanitaires
+Source File: msps.gov.ma.txt
+---
+Text: ولاتحسبن الله غافل عمى يعمل الضالمون...؟عصابة السطو المسلح مافيا الحكومة
+Language: Arabic
+Polarity: negative
+Topics: Rôle du gouvernement dans le secteur de la santé
+Source File: msps.gov.ma.txt
+---
+Text: إسبانيا تمنع رسو سفينتي أسلحة لإسرائيل قادمتين من نيويورك الأمريكية وفق ما نقله إعلام إسباني وأكدته مصادر بوزارة الخارجية
+#حرب_غزة
+المغرب استقبل يا العار و الذل المغرب يساند الإبادة الجماعية انا بريء من كل تطبيع مذل مخزي و تبا المصالح التي تكون على حساب الكرامة وعلى حساب دماء المسلمين
+Language: Arabic
+Polarity: negative
+Topics: No topics
+Source File: msps.gov.ma.txt
+---
+

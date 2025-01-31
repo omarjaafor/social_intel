@@ -1,0 +1,13 @@
+Comments for Topic-Polarity: Gestion des crises sanitaires_positive
+==================================================
+
+Comment 1:
+Text: التباعد الاجتماعي وغسل اليدين و التعقيم وضع الكمامة في الاماكن المزدحمة باش نقضيو على المرض
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 2:
+Text: التباعد الاجتماعي وغسل اليدين وترك مسافة الامان و استعمال الكمامة في الاماكن المغلقة باش نحميو بلادنا و الوطن ديالنا
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

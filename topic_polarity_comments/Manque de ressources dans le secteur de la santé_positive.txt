@@ -1,0 +1,18 @@
+Comments for Topic-Polarity: Manque de ressources dans le secteur de la santé_positive
+==================================================
+
+Comment 1:
+Text: المشكل الحقيقي الذي كانت تعاني منه المنظومة الصحية هو غياب المواد و المستلزمات الطبية اللازمة لحفظ صحة الأشخاص و ضعف الجادبية للمستشفيات و جادبية القطاع العمومي للاطر و الاطباء لكن اليوم بفضل هذه الاتفاقية ستساهم في تحسين جودة الخدمات الصحية
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 2:
+Text: نتمنى من Ministère de la Santé et de la Protection Sociale du Maroc فتح مبارة توظيف ممرضين معطالين من اجل تعزيز موارد بشرية
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 3:
+Text: نتمنى من وزارة فتح مبارة توظيف ممرضين
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

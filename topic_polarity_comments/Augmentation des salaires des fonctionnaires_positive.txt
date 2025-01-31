@@ -1,0 +1,13 @@
+Comments for Topic-Polarity: Augmentation des salaires des fonctionnaires_positive
+==================================================
+
+Comment 1:
+Text: اهتمام الحكومة بالجانب الاجتماعي و الاقتصادي للمغاربة هو نتيجة انصات رئيس الحكومة لهمومهم و تطلعاتهم.
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 2:
+Text: الجمعية المغربية لتعزيز الصحة تدعو الى تثمين الموارد البشرية الصحية وتنفيذ جميع الاتفاقات الاجتماعية فورا.
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

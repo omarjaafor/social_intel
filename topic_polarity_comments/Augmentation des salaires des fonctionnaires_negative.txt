@@ -1,0 +1,50 @@
+Comments for Topic-Polarity: Augmentation des salaires des fonctionnaires_negative
+==================================================
+
+Comment 1:
+Text: Membre anonyme nn mr hta l juillet 2025..daba ri IR.. 3LA HSSAB L GRADE.. HORS ECHEELLE 450...WNTA NAZAL HTA ECHELLE 6.. 60 DH..
+Language: French
+Source File: mouwadafine.txt
+------------------------------
+Comment 2:
+Text: Rien que ir Zyada d 200 dh tal juillet 500 dh aussi tal juillet
+Language: French
+Source File: mouwadafine.txt
+------------------------------
+Comment 3:
+Text: تثمين الموارد البشرية يمر عبر تنفيذ كل مضامين الاتفاق الموقع مع التنسيق النقابي بالقطاع، غير هذا لا أجد لكلمة تثمين أي موطئ في قاموس تعاملكم مع الشغيلة الصحية
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 4:
+Text: غير صحيح..تثمين الموارد البشرية ليس في اهتمام وزارة الصحة ، لو كانت مهتمة فعلا لنفذت ماتم الاتفاق عليه مع النقابات ، ولو ان الاتفاق كانت فيه تنازلات كثيرة عن بعض المطالب..
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 5:
+Text: أين هو اتفاق يوليوز ؟
+لماذا هناك إضراب على مستوى جميع المؤسسات الصحية الأسبوع القادم والذي بعده ؟
+عن أي تثمين تتحدثون ؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 6:
+Text: السلام عليكم ورحمة الله وبركاته ، فين هذا التثمين اش من بلاد.
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 7:
+Text: لاحول ولاقوة الابالله الله وكأننا نطالب بحقوق جديدة نحن موظفين بجميع مكتسبات الوظيفة العمومية كيف يعقل بين عشية وضحاها تسلبون هدا الحق عن أي إصلاح تتحدثون وأي تتمين للموارد البشرية هدا....الوزير السابق قام بحوارات مع النقابات الصحية قل نظيرها على حدي تعبيره والنتيجة صفر وتلفظ بمغالطات كتيرة عن الوظيفة الصحية والأن الوزير الجديد يتكلم عن تتمين الموارد البشرية وهو ليس قادرا حتى على إعطاء شرح مبسط وإجابة بدون ورقة للأسف مايحدث في القطاع هي نتيجة تراكمات سياسات صحية لأشخاص هم بعيدين كل البعد عن الخطة الهادفة بقدر ماهي خطط فاشلة.
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 8:
+Text: أين وصل ملف الزيادة في إيرادات حوادث الشغل والامراض المهنية وذويهم من اليتامى والارامل وإصدار مراسيم الزيادة
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 9:
+Text: Ghayzidu le corps administratif 200dh
+Language: French
+Source File: msps.gov.ma.txt
+------------------------------

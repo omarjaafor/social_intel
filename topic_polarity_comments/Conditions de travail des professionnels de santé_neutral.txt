@@ -1,0 +1,43 @@
+Comments for Topic-Polarity: Conditions de travail des professionnels de santé_neutral
+==================================================
+
+Comment 1:
+Text: نسمع دائما عن إحتجاجات وإضرابات وفي غالب الأحيان نتهم طرف على الأخر أي الوزارة أو الطبيب . لذا لتوضيح الرؤيا يجب خلق حوار عبر شاشة التلفزة العمومية وليس المذياع . وفي أوقات الذروة لأنه موضوع حساس ومهم ونعرف أين الخلل ومذا يريد الطبيب العام .
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 2:
+Text: الأنظمة الأساسية لكل من الوكالتين ستظهر الكثير حول وضعية العاملين بالقطاع الصحي
+Language: Arabic
+Source File: mouwadafine.txt
+------------------------------
+Comment 3:
+Text: والاضراب
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 4:
+Text: بالتوفيق لهم، واين ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 5:
+Text: بالتوفيق لهم، ماذا عن ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 6:
+Text: وما محل ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 7:
+Text: بالتوفيق لهم، واين ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 8:
+Text: بالتوفيق لهم، واين ملف الممرضين وتقنيي الصحة الدكاترة؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

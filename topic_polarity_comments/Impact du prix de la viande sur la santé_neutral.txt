@@ -1,0 +1,8 @@
+Comments for Topic-Polarity: Impact du prix de la viande sur la santé_neutral
+==================================================
+
+Comment 1:
+Text: اللحم و الخرف .
+Language: Arabic
+Source File: hespress.txt
+------------------------------

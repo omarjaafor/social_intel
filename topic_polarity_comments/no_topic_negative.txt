@@ -1,0 +1,155 @@
+Comments for Topic-Polarity: no_topic_negative
+==================================================
+
+Comment 1:
+Text: عام يذهب واخر ياتي وكل شيء فيك يزداد سوء يا وطني
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 2:
+Text: بشرى للمغاربة هذا المرض لا يعنينا….
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 3:
+Text: سبب الخرف هو الغلاء الفاحش وليس اللحوم الحمراء .لك الله ياوطني
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 4:
+Text: بطبيعة الحال ستصبح المرأة في خطر اكثر مما يتصور !!! و السبب أنها حرمت زوجها من احضار زوجة أخرى مثلها لمساعدتها في شؤون البيت
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 5:
+Text: جهة التزامر والتآمر
+Language: Arabic
+Source File: mouwadafine.txt
+------------------------------
+Comment 6:
+Text: خطأ
+Language: Arabic
+Source File: mouwadafine.txt
+------------------------------
+Comment 7:
+Text: متفق معك ولكن يبقى السؤال المطروح تائها
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 8:
+Text: تزحزح الجبل فأنجب فئرا
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 9:
+Text: فين هي الهيئة الوطنية للمدربين؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 10:
+Text: أين هو اتفاق 23 يوليوز ؟؟؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 11:
+Text: أين هو اتفاق 23 يوليوز ؟؟؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 12:
+Text: كارتة
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 13:
+Text: والعداو والتصفاق لاش أعباد الله
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 14:
+Text: لا علاقة له بالصحة ولا مشتقاتها
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 15:
+Text: ياعيني
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 16:
+Text: ألشعارات شيء والواقع شيء ٱخر
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 17:
+Text: ربي ربي!! شتان بين الواقع وبين هذا النص الأدبي
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 18:
+Text: نزل الاتفاق الى قمامة مكتبكم
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 19:
+Text: اذا كان ممكن قولو يتكلم بلا ورقة
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 20:
+Text: لاحول ولاقوة الا بالله
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 21:
+Text: Pfffffff
+Language: French
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 22:
+Text: ساكتفي بقول طز
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 23:
+Text: رجل ليس من اهل الصحة
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 24:
+Text: التقارير شيء و الواقع شيء آخر
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 25:
+Text: هناك خطأ تقني كذالك في البلاغ ههههههههه المرجو المراجعة قبل النشر
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 26:
+Text: لاحول ولاقوة إلا بالله.
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 27:
+Text: الإمتحانات المهنية يوم الأحد، هل وزارة Ministère de la Santé et de la Protection Sociale du Maroc ستمنع إدخال الهاتف 📱 إلى قاعة الإمتحانات ام أن لجان المراقبة متورطة في استفحال ظاهرة الغش في الإمتحانات المهنية؟؟؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 28:
+Text: الصور جميلة لكن الواقع الموعد بعد سنة أي بعد فوات الأوان
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 29:
+Text: C professeur akodad???il a tellement vieiilit
+Language: French
+Source File: msps.gov.ma.txt
+------------------------------
+Comment 30:
+Text: إسبانيا تمنع رسو سفينتي أسلحة لإسرائيل قادمتين من نيويورك الأمريكية وفق ما نقله إعلام إسباني وأكدته مصادر بوزارة الخارجية
+#حرب_غزة
+المغرب استقبل يا العار و الذل المغرب يساند الإبادة الجماعية انا بريء من كل تطبيع مذل مخزي و تبا المصالح التي تكون على حساب الكرامة وعلى حساب دماء المسلمين
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

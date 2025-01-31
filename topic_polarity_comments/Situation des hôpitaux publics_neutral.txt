@@ -1,0 +1,8 @@
+Comments for Topic-Polarity: Situation des hôpitaux publics_neutral
+==================================================
+
+Comment 1:
+Text: هل فعلا كان هناك انقطاع كهربائي أم لا ؟
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

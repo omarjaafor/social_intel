@@ -1,0 +1,23 @@
+Comments for Topic-Polarity: Projet royal de protection sociale_positive
+==================================================
+
+Comment 1:
+Text: مشروع ملكي ماض في الاتجاه الصحيح ، بحيث تضمن للمستفيدين فضلا عن التغطية الصحية والتعويضات العائلية والمعاش
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 2:
+Text: أصبحت لنا منظومة صحية متكاملة بفضل مشروع ملكنا سيتم الرفع من جودة التغطية الصحية
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 3:
+Text: اهتمام الحكومة بالجانب الاجتماعي و الاقتصادي للمغاربة هو نتيجة انصات رئيس الحكومة لهمومهم و تطلعاتهم.
+Language: Arabic
+Source File: hespress.txt
+------------------------------
+Comment 4:
+Text: مزيدا من التوفيق من أجل صحة أفضل وحماية اجتماعية للفئات المستهدفة
+Language: Arabic
+Source File: msps.gov.ma.txt
+------------------------------

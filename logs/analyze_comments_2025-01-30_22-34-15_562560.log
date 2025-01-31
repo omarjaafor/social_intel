@@ -1,0 +1,13 @@
+2025-01-30 22:34:15.571 | INFO     | __main__:main:465 - Starting comment analysis
+2025-01-30 22:34:15.571 | INFO     | __main__:main:476 - Processing file: comments/hespress.txt
+2025-01-30 22:34:15.572 | INFO     | __main__:analyze_comments:444 - Content size (50478 chars) exceeds limit, splitting into chunks
+2025-01-30 22:34:15.574 | INFO     | __main__:analyze_comments:453 - Split content into 9 chunks
+2025-01-30 22:34:15.574 | INFO     | __main__:analyze_comments:457 - Processing chunk 1/9
+2025-01-30 22:34:15.574 | INFO     | __main__:analyze_chunk:39 - Analyzing chunk of size 5901 characters
+2025-01-30 22:35:13.312 | ERROR    | helpers:run_gemini:122 - Generation attempt 1 failed. Error: Timeout of 60.0s exceeded, last exception: 503 DNS resolution failed for generativelanguage.googleapis.com:443: C-ares status is not ARES_SUCCESS qtype=SRV name=_grpclb._tcp.generativelanguage.googleapis.com: Could not contact DNS servers
+2025-01-30 22:36:12.307 | ERROR    | helpers:run_gemini:122 - Generation attempt 2 failed. Error: Timeout of 60.0s exceeded, last exception: 503 DNS resolution failed for generativelanguage.googleapis.com:443: C-ares status is not ARES_SUCCESS qtype=SRV name=_grpclb._tcp.generativelanguage.googleapis.com: Could not contact DNS servers
+2025-01-30 22:37:05.523 | ERROR    | helpers:run_gemini:122 - Generation attempt 3 failed. Error: Timeout of 60.0s exceeded, last exception: 503 DNS resolution failed for generativelanguage.googleapis.com:443: C-ares status is not ARES_SUCCESS qtype=SRV name=_grpclb._tcp.generativelanguage.googleapis.com: Could not contact DNS servers
+2025-01-30 22:37:05.525 | ERROR    | helpers:run_gemini:134 - Error running Gemini: Maximum attempts (3) reached. Unable to run Gemini: Timeout of 60.0s exceeded, last exception: 503 DNS resolution failed for generativelanguage.googleapis.com:443: C-ares status is not ARES_SUCCESS qtype=SRV name=_grpclb._tcp.generativelanguage.googleapis.com: Could not contact DNS servers
+2025-01-30 22:37:05.525 | ERROR    | __main__:analyze_chunk:66 - Error in API call: Maximum attempts (3) reached. Unable to run Gemini: Timeout of 60.0s exceeded, last exception: 503 DNS resolution failed for generativelanguage.googleapis.com:443: C-ares status is not ARES_SUCCESS qtype=SRV name=_grpclb._tcp.generativelanguage.googleapis.com: Could not contact DNS servers
+2025-01-30 22:37:05.525 | INFO     | __main__:analyze_comments:457 - Processing chunk 2/9
+2025-01-30 22:37:05.525 | INFO     | __main__:analyze_chunk:39 - Analyzing chunk of size 5773 characters
