@@ -67,21 +67,25 @@ def analyze_chunk(content):
         return None
 
 def identify_topics(comments, is_chunk=False):
-    """Identify top 15 topics from comments."""
-    logger.info(f"Identifying topics for {len(comments)} comments")
-    comments_text = "\n".join([c['text'] for c in comments])
+    """Identify top 15 topics from comments with examples."""
+    logger.info(f"Identifying topics from {'chunk' if is_chunk else 'all'} comments")
+    
     prompt = f"""
-    Analyze these comments and identify the top 15 topics discussed.
-    Topics are precise and should concern actions performed or to perform, policies, events, etc. Topics should be in French even if the comments are in Arabic.
+    Identify the top 15 topics from these comments. Topics should be precise and concern actions performed or to perform, policies, events, etc.
+    For each topic, provide up to 15 representative examples at most from the comments.
     Return a JSON with this structure:
     {{
         "topics": [
-            {{"topic": "topic name in french", "count": number_of_occurrences}}
+            {{
+                "topic": "topic name",
+                "count": number_of_occurrences,
+                "examples": ["example1", "example2", "example3"]
+            }}
         ]
     }}
-    
-    Comments:
-    {comments_text}
+
+    Comments to analyze:
+    {comments}
     """
     
     try:
@@ -96,19 +100,25 @@ def identify_topics(comments, is_chunk=False):
         return []
 
 def merge_topics(all_topics):
-    """Merge and consolidate topics, keeping top 15 in French."""
+    """Merge and consolidate topics, keeping top 15 in French with descriptions and examples."""
     logger.info(f"Merging {len(all_topics)} topics")
     prompt = f"""
     Merge these topics based on semantic meaning and return the top 15 topics in French.
-    Topics are precise and should concern actions performed or to perform, policies, events, etc. 
+    Topics are precise and should concern actions performed or to perform, policies, events, etc.
+    For each merged topic, combine and select the most representative examples.
     Return a JSON with this structure:
     {{
         "merged_topics": [
-            {{"topic": "topic in french", "count": total_count, "description": "short description in french"}}
+            {{
+                "topic": "topic in french",
+                "count": total_count,
+                "description": "short description in french",
+                "examples": ["example1", "example2", "example3"]
+            }}
         ]
     }}
     
-    Topics to merge:
+    Topics to merge (with their examples):
     {all_topics}
     """
     
@@ -119,16 +129,19 @@ def merge_topics(all_topics):
         merged = result.get('merged_topics', [])
         logger.info(f"Successfully merged topics into {len(merged)} topics")
         
-        # Save topics with descriptions to a file
+        # Save topics with descriptions and examples to a file
         output_file = "topic_descriptions.txt"
         with open(output_file, 'w', encoding='utf-8') as f:
-            f.write("Topics et Descriptions:\n\n")
+            f.write("Topics, Descriptions et Examples:\n\n")
             for topic in merged:
                 f.write(f"Topic: {topic['topic']}\n")
                 f.write(f"Description: {topic.get('description', 'No description available')}\n")
                 f.write(f"Count: {topic['count']}\n")
+                f.write("Examples:\n")
+                for example in topic.get('examples', []):
+                    f.write(f"- {example}\n")
                 f.write("-" * 50 + "\n")
-        logger.info(f"Saved topic descriptions to {output_file}")
+        logger.info(f"Saved topic descriptions and examples to {output_file}")
         
         return merged
     except Exception as e:
